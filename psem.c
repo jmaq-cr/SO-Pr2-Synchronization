@@ -108,18 +108,13 @@ int main()
     //  sem_num indica el indice del semaforo que queremos levantar en el array
     //  de semaforos obtenido.
     //  El 1 indica que se levanta el semaforo
-    //  El sem_flg son banderas para operaciones raras. Con un 0 vale.
+    //  El sem_flg son banderas para operaciones raras. Con un 0 basta.
     //
     Operacion.sem_num = 0;
     Operacion.sem_op = 1;
     Operacion.sem_flg = 0;
 
-    //
-    //  Ya podemos utilizar la memoria.
-    //  Escribimos cosas en la memoria. Los números de 1 a 10 esperando
-    //  un segundo entre ellos. Estos datos serán los que lea el otro
-    //  proceso.
-    //
+
     void crearProceso(int lineas, int tiempo) {
         for (i = 0; i < lineas; i++) {
             printf("Levanto Semaforo\n");
