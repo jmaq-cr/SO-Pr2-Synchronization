@@ -11,34 +11,37 @@
 #include <semaphore.h>
 #include <fcntl.h>
 
-#include <sys/sem.h>
-#include <unistd.h>
+
 
 static sem_t *semaforoEscritura;
 static sem_t *semaforoLectura;
 
 int crearZonaMemoriaCompartida(key_t clave, int tamano){
-    idMemoria = shmget (clave, tamano, 0777 | IPC_CREAT);
-    if (idMemoria == -1)
-    {
+    int idMemoria;
+    idMemoria = shmget(clave, tamano, 0777 | IPC_CREAT);
+
+    if (idMemoria == -1){
         printf("No consigo Id para la memoria compartida");
         return -1;
     }
-    return IdMemoria;
+    printf("Creado Id para la memoria compartida\n");
+    return idMemoria;
 }
 
 int *apuntarZonaMemoriaCompartida(key_t clave, int tamano){
     int *punteroMemoria;
+    int idMemoria;
     idMemoria = crearZonaMemoriaCompartida(clave, tamano);
 
-    if (Memoria == -1)
+    if (idMemoria == -1)
     {
         printf("No consigo la memoria compartida");
-        return -1;
+        return NULL;
     } else {
-        if ((punteroMemoria = shmat(idMemoria, (char *)0, 0)) == -1){
+        if ((punteroMemoria = shmat(idMemoria, NULL, 0)) == (int *) -1){
             return NULL;
         } else{
+            printf("Creado Memoria compartida y puntero\n");
             return punteroMemoria;
         }
     }
@@ -47,8 +50,8 @@ int *apuntarZonaMemoriaCompartida(key_t clave, int tamano){
 int main(int argc, char *argb[]){
     int lineas;
 
-    semaforoEscritura = sem_open("/semaforoEscritura", O_CREAT, 0777, 1);
-    semaforoLectura = sem_open("/semaforoLectura", O_CREAT, 0777, 1);
+    semaforoEscritura = sem_open("/semaforoEscritura", O_CREAT, 0644, 1);
+    semaforoLectura = sem_open("/semaforoLectura", O_CREAT, 0644, 1);
 
     // Escribir Lineas
 
@@ -69,7 +72,7 @@ int main(int argc, char *argb[]){
         *handler = lineas;
     }
 
-    printf("Espacios de Memoria Creados";)
+    printf("Espacios de Memoria Creados\n");
     exit(0);
 
 
