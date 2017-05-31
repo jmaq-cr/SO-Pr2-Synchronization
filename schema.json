@@ -1,0 +1,24 @@
+[
+  {
+    "tamanio": 10,
+    "disponible": 3,
+    "procesos": [
+      {
+        "name": "P1",
+        "utiliza": 5,
+        "tiempo": 30
+      }
+    ]
+  },
+  {
+    "tamanio": 5,
+    "disponible": 2,
+    "procesos": [
+      {
+        "name": "P2",
+        "utiliza": 3,
+        "tiempo": 37
+      }
+    ]
+  }
+]
