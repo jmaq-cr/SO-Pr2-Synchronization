@@ -7,13 +7,15 @@ include(CTest)
 enable_testing()
 INCLUDE_DIRECTORIES(lib)
 add_subdirectory(lib) 
+INCLUDE_DIRECTORIES(include)
+add_subdirectory(include) 
 
 #set (CMAKE_CXX_FLAGS "-lcollectc")
 
-set(SOURCES     mapreadjson.c)
+set(SOURCES     producer.c)
 set (HEADERS    template.h)
 add_executable(SO-Pr2-Synchronization ${SOURCES} ${HEADERS})
-target_link_libraries(SO-Pr2-Synchronization Threads::Threads lib)
+target_link_libraries(SO-Pr2-Synchronization Threads::Threads lib include)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

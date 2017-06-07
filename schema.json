@@ -1,24 +1,42 @@
 [
   {
-    "tamanio": 10,
-    "disponible": 3,
-    "procesos": [
-      {
-        "name": "P1",
-        "utiliza": 5,
-        "tiempo": 30
-      }
-    ]
+    "size": 10,
+    "free_space": 10,
+    "processes": {}
   },
   {
-    "tamanio": 5,
-    "disponible": 2,
-    "procesos": [
-      {
-        "name": "P2",
-        "utiliza": 3,
-        "tiempo": 37
+    "size": 5,
+    "free_space": 5,
+    "processes": {
+      "P200": {
+        "utiliza": "5",
+        "tiempo": "30"
       }
-    ]
+    }
+  },
+  {
+    "size": 7,
+    "free_space": 7,
+    "processes": {}
+  },
+  {
+    "size": 8,
+    "free_space": 8,
+    "processes": {}
+  },
+  {
+    "size": 10,
+    "free_space": 10,
+    "processes": {}
+  },
+  {
+    "size": 4,
+    "free_space": 4,
+    "processes": {}
+  },
+  {
+    "size": 6,
+    "free_space": 6,
+    "processes": {}
   }
 ]
