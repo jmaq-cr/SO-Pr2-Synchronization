@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <time.h>
-
 int random_number(int min_num, int max_num)
 {
     int result = 0, low_num = 0, hi_num = 0;

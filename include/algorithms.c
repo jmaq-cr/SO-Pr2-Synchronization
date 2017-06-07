@@ -36,49 +36,49 @@ int select_algorithm()
     return g_algorithm;
 }
 
-void search_index(JSON_Array *mem_arr, int process_size)
+int search_index(JSON_Array *mem_arr, int process_size, algorithm_t algorithm)
 {
 
-    int i;
     int n = json_array_get_count(mem_arr);
-    for (i = 0; i < n; i++)
-    {
-        JSON_Object *root_object = json_array_get_object(mem_arr, i);
-        if (json_object_dothas_value(root_object, "processes.P200"))
-            printf("Este lo tiene: %d\n", i);
-    }
 
-    // Find the best fit block for current process
-    /*int index = -1;
-    int shouldBreak = 0;
+    int index = -1;
+    int shouldBreak = false;
     for (int i = 0; i < n; i++)
     {
-        if (blockSize[j] >= processSize[i])
+        JSON_Object *root_object = json_array_get_object(mem_arr, i);
+        int free_space_actual = json_object_get_number(root_object, "free_space");
+        int free_space_old = 0;
+        if (free_space_actual >= process_size)
         {
-            switch (g_algorithm)
+            switch (algorithm)
             {
             case BEST_FIT:
+                if (index != -1)
+                    free_space_old = json_object_get_number(json_array_get_object(mem_arr, index), "free_space");
                 if (index == -1)
-                    index = j;
-                else if (blockSize[index] > blockSize[j])
-                    index = j;
+                    index = i;
+                else if (free_space_old > free_space_actual)
+                    index = i;
                 break;
             case WORST_FIT:
+                if (index != -1)
+                    free_space_old = json_object_get_number(json_array_get_object(mem_arr, index), "free_space");
                 if (index == -1)
-                    index = j;
-                else if (blockSize[index] < blockSize[j])
-                    index = j;
+                    index = i;
+                else if (free_space_old < free_space_actual)
+                    index = i;
                 break;
             case FIRST_FIT:
-                index = j;
-                shouldBreak = 1;
+                index = i;
+                shouldBreak = true;
                 break;
             default:
-                printf("Bad input, quitting!\n");
+                printf("Algoritmo incorrecto\n");
                 break;
             }
             if (shouldBreak)
                 break;
         }
-    }*/
+    }
+    return index;
 }

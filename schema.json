@@ -7,12 +7,7 @@
   {
     "size": 5,
     "free_space": 5,
-    "processes": {
-      "P200": {
-        "utiliza": "5",
-        "tiempo": "30"
-      }
-    }
+    "processes": {}
   },
   {
     "size": 7,

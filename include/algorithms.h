@@ -16,6 +16,6 @@ typedef enum {
 } algorithm_t;
 
 int select_algorithm();
-void search_index(JSON_Array *mem_arr, int process_size);
+int search_index(JSON_Array *mem_arr, int process_size, algorithm_t algorithm);
 // end include guard
 #endif
