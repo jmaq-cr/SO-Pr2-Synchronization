@@ -5,6 +5,7 @@
         "initializer_list": "cpp",
         "utility": "cpp",
         "valarray": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "system_error": "cpp"
     }
 }

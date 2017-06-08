@@ -1,9 +1,8 @@
 #include "algorithms.h"
 
-algorithm_t g_algorithm;
-
 int select_algorithm()
 {
+    algorithm_t algorithm;
     bool valid = true;
     int code;
     do
@@ -18,13 +17,13 @@ int select_algorithm()
         switch (code)
         {
         case 1:
-            g_algorithm = BEST_FIT;
+            algorithm = BEST_FIT;
             break;
         case 2:
-            g_algorithm = FIRST_FIT;
+            algorithm = FIRST_FIT;
             break;
         case 3:
-            g_algorithm = WORST_FIT;
+            algorithm = WORST_FIT;
             break;
         default:
             puts("Opcion incorrecta.");
@@ -33,7 +32,7 @@ int select_algorithm()
         }
     } while (valid == false);
 
-    return g_algorithm;
+    return algorithm;
 }
 
 int search_index(JSON_Array *mem_arr, int process_size, algorithm_t algorithm)

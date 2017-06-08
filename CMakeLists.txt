@@ -8,7 +8,7 @@ enable_testing()
 INCLUDE_DIRECTORIES(lib)
 add_subdirectory(lib) 
 INCLUDE_DIRECTORIES(include)
-add_subdirectory(include) 
+add_subdirectory(include)
 
 #set (CMAKE_CXX_FLAGS "-lcollectc")
 
@@ -23,9 +23,13 @@ add_executable(Producer ${SOURCES_PRO})
 target_link_libraries(Producer Threads::Threads lib include)
 
 # Test
-# set(SOURCES_TST     thread-example.c)
-# add_executable(Test ${SOURCES_TST})
-# target_link_libraries(Test Threads::Threads lib include)
+set(SOURCES_SRV     server.c)
+add_executable(Server ${SOURCES_SRV})
+target_link_libraries(Server Threads::Threads)
+
+set(SOURCES_CLI     client.c)
+add_executable(Client ${SOURCES_CLI})
+target_link_libraries(Client Threads::Threads)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
