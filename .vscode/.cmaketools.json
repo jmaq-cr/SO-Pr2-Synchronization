@@ -23,6 +23,22 @@
                   {
                     "isGenerated": true,
                     "sources": [
+                      "build/CMakeFiles/Continuous",
+                      "build/CMakeFiles/Continuous.rule"
+                    ]
+                  }
+                ],
+                "fullName": "Continuous",
+                "name": "Continuous",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
                       "build/CMakeFiles/NightlyBuild",
                       "build/CMakeFiles/NightlyBuild.rule"
                     ]
@@ -62,38 +78,6 @@
                 ],
                 "fullName": "NightlyMemoryCheck",
                 "name": "NightlyMemoryCheck",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/NightlyMemCheck",
-                      "build/CMakeFiles/NightlyMemCheck.rule"
-                    ]
-                  }
-                ],
-                "fullName": "NightlyMemCheck",
-                "name": "NightlyMemCheck",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ExperimentalUpdate",
-                      "build/CMakeFiles/ExperimentalUpdate.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ExperimentalUpdate",
-                "name": "ExperimentalUpdate",
                 "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
                 "type": "UTILITY"
               },
@@ -167,6 +151,102 @@
                   {
                     "isGenerated": true,
                     "sources": [
+                      "build/CMakeFiles/ExperimentalSubmit",
+                      "build/CMakeFiles/ExperimentalSubmit.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalSubmit",
+                "name": "ExperimentalSubmit",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "artifacts": [
+                  "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/Initializer"
+                ],
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "compileFlags": "-O2 -g -DNDEBUG   -pthread",
+                    "includePath": [
+                      {
+                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib"
+                      },
+                      {
+                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/include"
+                      }
+                    ],
+                    "isGenerated": false,
+                    "language": "C",
+                    "sources": [
+                      "initializer.c"
+                    ]
+                  }
+                ],
+                "fullName": "Initializer",
+                "linkFlags": "-rdynamic",
+                "linkLanguageFlags": "-O2 -g -DNDEBUG",
+                "linkLibraries": "lib/liblib.a include/libinclude.a -pthread",
+                "linkerLanguage": "C",
+                "name": "Initializer",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "EXECUTABLE"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousStart",
+                      "build/CMakeFiles/ContinuousStart.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousStart",
+                "name": "ContinuousStart",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousUpdate",
+                      "build/CMakeFiles/ContinuousUpdate.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousUpdate",
+                "name": "ContinuousUpdate",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/NightlyMemCheck",
+                      "build/CMakeFiles/NightlyMemCheck.rule"
+                    ]
+                  }
+                ],
+                "fullName": "NightlyMemCheck",
+                "name": "NightlyMemCheck",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
                       "build/CMakeFiles/ExperimentalStart",
                       "build/CMakeFiles/ExperimentalStart.rule"
                     ]
@@ -208,6 +288,143 @@
                 "name": "NightlyCoverage",
                 "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
                 "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ExperimentalUpdate",
+                      "build/CMakeFiles/ExperimentalUpdate.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ExperimentalUpdate",
+                "name": "ExperimentalUpdate",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousCoverage",
+                      "build/CMakeFiles/ContinuousCoverage.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousCoverage",
+                "name": "ContinuousCoverage",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousTest",
+                      "build/CMakeFiles/ContinuousTest.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousTest",
+                "name": "ContinuousTest",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousBuild",
+                      "build/CMakeFiles/ContinuousBuild.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousBuild",
+                "name": "ContinuousBuild",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
+                "fileGroups": [
+                  {
+                    "isGenerated": true,
+                    "sources": [
+                      "build/CMakeFiles/ContinuousMemCheck",
+                      "build/CMakeFiles/ContinuousMemCheck.rule"
+                    ]
+                  }
+                ],
+                "fullName": "ContinuousMemCheck",
+                "name": "ContinuousMemCheck",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
+                "type": "UTILITY"
+              },
+              {
+                "artifacts": [
+                  "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/lib/liblib.a"
+                ],
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/lib",
+                "fileGroups": [
+                  {
+                    "compileFlags": "-O2 -g -DNDEBUG  ",
+                    "includePath": [
+                      {
+                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib"
+                      }
+                    ],
+                    "isGenerated": false,
+                    "language": "C",
+                    "sources": [
+                      "parson.c",
+                      "slog.c"
+                    ]
+                  }
+                ],
+                "fullName": "liblib.a",
+                "linkerLanguage": "C",
+                "name": "lib",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib",
+                "type": "STATIC_LIBRARY"
+              },
+              {
+                "artifacts": [
+                  "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/include/libinclude.a"
+                ],
+                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/include",
+                "fileGroups": [
+                  {
+                    "compileFlags": "-O2 -g -DNDEBUG  ",
+                    "includePath": [
+                      {
+                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib"
+                      },
+                      {
+                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/include"
+                      }
+                    ],
+                    "isGenerated": false,
+                    "language": "C",
+                    "sources": [
+                      "random.c",
+                      "algorithms.c"
+                    ]
+                  }
+                ],
+                "fullName": "libinclude.a",
+                "linkerLanguage": "C",
+                "name": "include",
+                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/include",
+                "type": "STATIC_LIBRARY"
               },
               {
                 "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
@@ -311,77 +528,13 @@
                   {
                     "isGenerated": true,
                     "sources": [
-                      "build/CMakeFiles/ExperimentalSubmit",
-                      "build/CMakeFiles/ExperimentalSubmit.rule"
+                      "build/CMakeFiles/Nightly",
+                      "build/CMakeFiles/Nightly.rule"
                     ]
                   }
                 ],
-                "fullName": "ExperimentalSubmit",
-                "name": "ExperimentalSubmit",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "artifacts": [
-                  "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/Initializer"
-                ],
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "compileFlags": "-O2 -g -DNDEBUG   -pthread",
-                    "includePath": [
-                      {
-                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib"
-                      },
-                      {
-                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/include"
-                      }
-                    ],
-                    "isGenerated": false,
-                    "language": "C",
-                    "sources": [
-                      "initializer.c"
-                    ]
-                  }
-                ],
-                "fullName": "Initializer",
-                "linkFlags": "-rdynamic",
-                "linkLanguageFlags": "-O2 -g -DNDEBUG",
-                "linkLibraries": "lib/liblib.a include/libinclude.a -pthread",
-                "linkerLanguage": "C",
-                "name": "Initializer",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "EXECUTABLE"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ContinuousStart",
-                      "build/CMakeFiles/ContinuousStart.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ContinuousStart",
-                "name": "ContinuousStart",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ContinuousUpdate",
-                      "build/CMakeFiles/ContinuousUpdate.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ContinuousUpdate",
-                "name": "ContinuousUpdate",
+                "fullName": "Nightly",
+                "name": "Nightly",
                 "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
                 "type": "UTILITY"
               },
@@ -446,70 +599,6 @@
                 ],
                 "fullName": "NightlyUpdate",
                 "name": "NightlyUpdate",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/Continuous",
-                      "build/CMakeFiles/Continuous.rule"
-                    ]
-                  }
-                ],
-                "fullName": "Continuous",
-                "name": "Continuous",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ContinuousBuild",
-                      "build/CMakeFiles/ContinuousBuild.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ContinuousBuild",
-                "name": "ContinuousBuild",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ContinuousMemCheck",
-                      "build/CMakeFiles/ContinuousMemCheck.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ContinuousMemCheck",
-                "name": "ContinuousMemCheck",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/Nightly",
-                      "build/CMakeFiles/Nightly.rule"
-                    ]
-                  }
-                ],
-                "fullName": "Nightly",
-                "name": "Nightly",
                 "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
                 "type": "UTILITY"
               },
@@ -591,102 +680,13 @@
                 "name": "ContinuousSubmit",
                 "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
                 "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ContinuousCoverage",
-                      "build/CMakeFiles/ContinuousCoverage.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ContinuousCoverage",
-                "name": "ContinuousCoverage",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build",
-                "fileGroups": [
-                  {
-                    "isGenerated": true,
-                    "sources": [
-                      "build/CMakeFiles/ContinuousTest",
-                      "build/CMakeFiles/ContinuousTest.rule"
-                    ]
-                  }
-                ],
-                "fullName": "ContinuousTest",
-                "name": "ContinuousTest",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization",
-                "type": "UTILITY"
-              },
-              {
-                "artifacts": [
-                  "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/lib/liblib.a"
-                ],
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/lib",
-                "fileGroups": [
-                  {
-                    "compileFlags": "-O2 -g -DNDEBUG  ",
-                    "includePath": [
-                      {
-                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib"
-                      }
-                    ],
-                    "isGenerated": false,
-                    "language": "C",
-                    "sources": [
-                      "parson.c",
-                      "slog.c"
-                    ]
-                  }
-                ],
-                "fullName": "liblib.a",
-                "linkerLanguage": "C",
-                "name": "lib",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib",
-                "type": "STATIC_LIBRARY"
-              },
-              {
-                "artifacts": [
-                  "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/include/libinclude.a"
-                ],
-                "buildDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/build/include",
-                "fileGroups": [
-                  {
-                    "compileFlags": "-O2 -g -DNDEBUG  ",
-                    "includePath": [
-                      {
-                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/lib"
-                      },
-                      {
-                        "path": "/home/kevinah95/Documents/SO-Pr2-Synchronization/include"
-                      }
-                    ],
-                    "isGenerated": false,
-                    "language": "C",
-                    "sources": [
-                      "random.c",
-                      "algorithms.c"
-                    ]
-                  }
-                ],
-                "fullName": "libinclude.a",
-                "linkerLanguage": "C",
-                "name": "include",
-                "sourceDirectory": "/home/kevinah95/Documents/SO-Pr2-Synchronization/include",
-                "type": "STATIC_LIBRARY"
               }
             ]
           }
         ]
       }
     ],
-    "cookie": "0.10764390421243131",
+    "cookie": "0.8664735810412536",
     "inReplyTo": "codemodel",
     "type": "reply"
   }

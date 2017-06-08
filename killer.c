@@ -6,6 +6,7 @@
 
 void kill_producer();
 void delete_memory();
+void delete_processes_on_waiting();
 void main(void)
 {
     kill_producer();
@@ -39,6 +40,8 @@ void kill_producer()
             kill(pid, SIGQUIT);
             printf("Done.....\n");
             delete_memory();
+            printf("\n");
+            delete_processes_on_waiting();
             exit(0);
         }
         else
@@ -49,6 +52,22 @@ void kill_producer()
 void delete_memory()
 {
     const char *filepath = "/tmp/mmapped.bin";
+    int ret;
+    ret = remove(filepath);
+
+    if (ret == 0)
+    {
+        printf("File deleted successfully");
+    }
+    else
+    {
+        printf("Error: unable to delete the file");
+    }
+}
+
+void delete_processes_on_waiting()
+{
+    const char *filepath = "/tmp/mmapped_pro_on_waiting.bin";
     int ret;
     ret = remove(filepath);
 

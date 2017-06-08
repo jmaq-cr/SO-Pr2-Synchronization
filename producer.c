@@ -22,6 +22,8 @@
 void *worker_thread(void *arg);
 char *read_memory();
 void write_memory(char *serialized_string);
+char *read_memory_processes_on_waiting();
+void write_memory_processes_on_waiting(char *serialized_string);
 void SIGINT_handler(int);
 void SIGQUIT_handler(int);
 
@@ -82,14 +84,37 @@ int main()
 void *worker_thread(void *arg)
 {
     char *data;
+    char *data_waiting;
     //create thread
     printf("before calling pthread_create getpid: %d getpthread_self: %lu tid:%lu\n", getpid(), pthread_self(), syscall(SYS_gettid));
+    char str_process_id[40];
+    long int process_id = syscall(SYS_gettid);
+    sprintf(str_process_id, "%lu", process_id);
+
     int process_size = random_number(1, 10);
     int process_delay = random_number(20, 60);
     printf("process_size: %d\n", process_size);
     printf("process_delay: %d\n", process_delay);
     printf("process_id: %lu\n", syscall(SYS_gettid));
+    data_waiting = read_memory_processes_on_waiting();
+    JSON_Value *waiting_value = json_parse_string(data_waiting);
+    JSON_Object *waiting_object = json_value_get_object(waiting_value);
+    json_object_set_null(waiting_object, str_process_id);
+    //update processes on waiting
+    char *serialized_string_waiting = NULL;
+    serialized_string_waiting = json_serialize_to_string(waiting_value);
+    write_memory_processes_on_waiting(serialized_string_waiting);
+    //semaphore
     sem_wait(&sem_find_space);
+    data_waiting = read_memory_processes_on_waiting();
+    waiting_value = json_parse_string(data_waiting);
+    waiting_object = json_value_get_object(waiting_value);
+    json_object_remove(waiting_object, str_process_id);
+    //update processes on waiting
+    serialized_string_waiting = NULL;
+    serialized_string_waiting = json_serialize_to_string(waiting_value);
+    write_memory_processes_on_waiting(serialized_string_waiting);
+    //read data
     data = read_memory();
     JSON_Value *mem_value = json_parse_string(data);
     JSON_Array *mem_arr = json_value_get_array(mem_value);
@@ -112,8 +137,8 @@ void *worker_thread(void *arg)
         JSON_Object *sub_schema_obj = json_value_get_object(sub_schema);
         json_object_set_number(sub_schema_obj, "size", process_size);
         json_object_set_number(sub_schema_obj, "delay", process_delay);
-        char str_process_id[40];
-        long int process_id = syscall(SYS_gettid);
+        str_process_id[40];
+        process_id = syscall(SYS_gettid);
         sprintf(str_process_id, "%lu", process_id);
         json_object_set_value(pro_obj, str_process_id, sub_schema);
         //update mem
@@ -139,7 +164,7 @@ void *worker_thread(void *arg)
         strcpy(str, "processes.");
         strcat(str, str_process_id);
         puts(str);
-        json_object_dotremove(root_object, str);
+        json_object_dotremove(root_object_return, str);
         char *serialized_string_return = NULL;
         serialized_string_return = json_serialize_to_string(mem_value_return);
         write_memory(serialized_string_return);
@@ -218,6 +243,151 @@ void write_memory(char *serialized_string)
      */
 
     const char *filepath = "/tmp/mmapped.bin";
+
+    int fd = open(filepath, O_RDWR | O_CREAT | O_TRUNC, (mode_t)0600);
+
+    if (fd == -1)
+    {
+        perror("Error opening file for writing");
+        exit(EXIT_FAILURE);
+    }
+
+    // Stretch the file size to the size of the (mmapped) array of char
+    if (serialized_string == NULL)
+    {
+        perror("serialized_string");
+        exit(1);
+    }
+
+    size_t textsize = strlen(serialized_string) + 1; // + \0 null character
+
+    if (lseek(fd, textsize - 1, SEEK_SET) == -1)
+    {
+        close(fd);
+        perror("Error calling lseek() to 'stretch' the file");
+        exit(EXIT_FAILURE);
+    }
+
+    /* Something needs to be written at the end of the file to
+     * have the file actually have the new size.
+     * Just writing an empty string at the current file position will do.
+     *
+     * Note:
+     *  - The current position in the file is at the end of the stretched 
+     *    file due to the call to lseek().
+     *  - An empty string is actually a single '\0' character, so a zero-byte
+     *    will be written at the last byte of the file.
+     */
+
+    if (write(fd, "", 1) == -1)
+    {
+        close(fd);
+        perror("Error writing last byte of the file");
+        exit(EXIT_FAILURE);
+    }
+
+    // Now the file is ready to be mmapped.
+    char *map = mmap(0, textsize, PROT_READ | PROT_WRITE, MAP_SHARED, fd, 0);
+    if (map == MAP_FAILED)
+    {
+        close(fd);
+        perror("Error mmapping the file");
+        exit(EXIT_FAILURE);
+    }
+
+    strcpy(map, serialized_string);
+    //puts(map);
+
+    // Write it now to disk
+    if (msync(map, textsize, MS_SYNC) == -1)
+    {
+        perror("Could not sync the file to disk");
+    }
+
+    // Don't forget to free the mmapped memory
+    if (munmap(map, textsize) == -1)
+    {
+        close(fd);
+        json_free_serialized_string(serialized_string);
+
+        perror("Error un-mmapping the file");
+        exit(EXIT_FAILURE);
+    }
+
+    // Un-mmaping doesn't close the file, so we still need to do that.
+    close(fd);
+
+    json_free_serialized_string(serialized_string);
+}
+
+char *read_memory_processes_on_waiting()
+{
+    const char *filepath = "/tmp/mmapped_pro_on_waiting.bin";
+
+    int fd = open(filepath, O_RDONLY, (mode_t)0600);
+
+    if (fd == -1)
+    {
+        perror("Error opening file for writing");
+        exit(EXIT_FAILURE);
+    }
+
+    struct stat fileInfo = {0};
+
+    if (fstat(fd, &fileInfo) == -1)
+    {
+        perror("Error getting the file size");
+        exit(EXIT_FAILURE);
+    }
+
+    if (fileInfo.st_size == 0)
+    {
+        fprintf(stderr, "Error: File is empty, nothing to do\n");
+        exit(EXIT_FAILURE);
+    }
+
+    printf("File size is %ji\n", (intmax_t)fileInfo.st_size);
+
+    char *map = mmap(0, fileInfo.st_size, PROT_READ, MAP_SHARED, fd, 0);
+    if (map == MAP_FAILED)
+    {
+        close(fd);
+        perror("Error mmapping the file");
+        exit(EXIT_FAILURE);
+    }
+
+    JSON_Value *output_value = NULL;
+    output_value = json_parse_string(map);
+    char *serialized_string = NULL;
+    serialized_string = json_serialize_to_string_pretty(output_value);
+
+    //puts(serialized_string);
+
+    // Don't forget to free the mmapped memory
+    if (munmap(map, fileInfo.st_size) == -1)
+    {
+        close(fd);
+        perror("Error un-mmapping the file");
+        exit(EXIT_FAILURE);
+    }
+
+    // Un-mmaping doesn't close the file, so we still need to do that.
+    close(fd);
+
+    return serialized_string;
+}
+
+void write_memory_processes_on_waiting(char *serialized_string)
+{
+
+    /* Open a file for writing.
+     *  - Creating the file if it doesn't exist.
+     *  - Truncating it to 0 size if it already exists. (not really needed)
+     *
+     * Note: "O_WRONLY" mode is not sufficient when mmaping.
+     */
+
+    const char *filepath = "/tmp/mmapped_pro_on_waiting.bin";
 
     int fd = open(filepath, O_RDWR | O_CREAT | O_TRUNC, (mode_t)0600);
 

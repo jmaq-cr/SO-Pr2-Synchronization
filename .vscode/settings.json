@@ -9,6 +9,8 @@
         "system_error": "cpp",
         "cstdlib": "cpp",
         "*.tcc": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "future": "cpp",
+        "sstream": "cpp"
     }
 }
