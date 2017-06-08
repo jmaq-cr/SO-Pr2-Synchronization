@@ -1,0 +1,1386 @@
+2017.06.08-00:02:42.13 - [INFO] Loading logger config from: slog.cfg
+2017.06.08-00:03:07.55 - [INFO] Loading logger config from: slog.cfg
+2017.06.08-00:03:08.14 - [[32mASIG[0m] 30123 Asignado Size:10 Delay:54
+2017.06.08-00:03:14.13 - [[32mASIG[0m] 30174 Asignado Size:8 Delay:50
+2017.06.08-00:03:19.12 - [[32mASIG[0m] 30184 Asignado Size:1 Delay:48
+2017.06.08-00:03:23.11 - [[32mASIG[0m] 30194 Asignado Size:5 Delay:52
+2017.06.08-00:03:27.15 - [[32mASIG[0m] 30204 Asignado Size:8 Delay:25
+2017.06.08-00:03:33.12 - [[32mASIG[0m] 30219 Asignado Size:6 Delay:59
+2017.06.08-00:03:38.15 - [[32mASIG[0m] 30229 Asignado Size:3 Delay:37
+2017.06.08-00:03:43.14 - [[32mASIG[0m] 30239 Asignado Size:3 Delay:59
+2017.06.08-00:03:48.09 - [[33mWARN[0m] 30255 No entró a memoria.
+2017.06.08-00:03:51.14 - [[32mASIG[0m] 30264 Asignado Size:2 Delay:46
+2017.06.08-00:03:52.19 - [[34mDEVO[0m] 30204 Devuelto Size:8 Index:4
+2017.06.08-00:03:56.12 - [[32mASIG[0m] 30277 Asignado Size:5 Delay:21
+2017.06.08-00:04:01.09 - [[33mWARN[0m] 30287 No entró a memoria.
+2017.06.08-00:04:02.33 - [[34mDEVO[0m] 30123 Devuelto Size:10 Index:0
+2017.06.08-00:04:04.21 - [[34mDEVO[0m] 30174 Devuelto Size:8 Index:3
+2017.06.08-00:04:07.13 - [[32mASIG[0m] 30300 Asignado Size:2 Delay:51
+2017.06.08-00:04:07.16 - [[34mDEVO[0m] 30184 Devuelto Size:1 Index:5
+2017.06.08-00:04:10.13 - [[32mASIG[0m] 30310 Asignado Size:5 Delay:38
+2017.06.08-00:04:13.13 - [[32mASIG[0m] 30312 Asignado Size:2 Delay:53
+2017.06.08-00:04:15.15 - [[34mDEVO[0m] 30194 Devuelto Size:5 Index:1
+2017.06.08-00:04:15.20 - [[34mDEVO[0m] 30229 Devuelto Size:3 Index:5
+2017.06.08-00:04:16.12 - [[32mASIG[0m] 30322 Asignado Size:4 Delay:33
+2017.06.08-00:04:17.16 - [[34mDEVO[0m] 30277 Devuelto Size:5 Index:4
+2017.06.08-00:04:20.12 - [[32mASIG[0m] 30332 Asignado Size:3 Delay:42
+2017.06.08-00:04:24.14 - [[32mASIG[0m] 30343 Asignado Size:9 Delay:41
+2017.06.08-00:04:27.09 - [[33mWARN[0m] 30353 No entró a memoria.
+2017.06.08-00:04:30.13 - [[32mASIG[0m] 30363 Asignado Size:1 Delay:28
+2017.06.08-00:04:32.16 - [[34mDEVO[0m] 30219 Devuelto Size:6 Index:6
+2017.06.08-00:04:33.16 - [[32mASIG[0m] 30384 Asignado Size:3 Delay:26
+2017.06.08-00:04:37.19 - [[34mDEVO[0m] 30264 Devuelto Size:2 Index:4
+2017.06.08-00:04:39.19 - [[32mASIG[0m] 30395 Asignado Size:5 Delay:32
+2017.06.08-00:04:42.24 - [[34mDEVO[0m] 30239 Devuelto Size:3 Index:2
+2017.06.08-00:04:44.09 - [[33mWARN[0m] 30408 No entró a memoria.
+2017.06.08-00:04:48.16 - [[34mDEVO[0m] 30310 Devuelto Size:5 Index:3
+2017.06.08-00:04:49.15 - [[34mDEVO[0m] 30322 Devuelto Size:4 Index:2
+2017.06.08-00:04:50.13 - [[32mASIG[0m] 30418 Asignado Size:6 Delay:36
+2017.06.08-00:04:56.09 - [[33mWARN[0m] 30446 No entró a memoria.
+2017.06.08-00:04:58.17 - [[34mDEVO[0m] 30300 Devuelto Size:2 Index:4
+2017.06.08-00:04:58.21 - [[34mDEVO[0m] 30363 Devuelto Size:1 Index:0
+2017.06.08-00:04:59.14 - [[32mASIG[0m] 30469 Asignado Size:3 Delay:28
+2017.06.08-00:04:59.20 - [[34mDEVO[0m] 30384 Devuelto Size:3 Index:1
+2017.06.08-00:05:02.18 - [[34mDEVO[0m] 30332 Devuelto Size:3 Index:5
+2017.06.08-00:05:05.15 - [[32mASIG[0m] 30481 Asignado Size:3 Delay:58
+2017.06.08-00:05:05.19 - [[34mDEVO[0m] 30343 Devuelto Size:9 Index:0
+2017.06.08-00:05:06.18 - [[34mDEVO[0m] 30312 Devuelto Size:2 Index:3
+2017.06.08-00:05:08.14 - [[32mASIG[0m] 30492 Asignado Size:3 Delay:44
+2017.06.08-00:05:11.25 - [[34mDEVO[0m] 30395 Devuelto Size:5 Index:6
+2017.06.08-00:05:13.19 - [[32mASIG[0m] 30513 Asignado Size:8 Delay:59
+2017.06.08-00:05:19.13 - [[32mASIG[0m] 30524 Asignado Size:6 Delay:25
+2017.06.08-00:05:24.13 - [[32mASIG[0m] 30536 Asignado Size:3 Delay:55
+2017.06.08-00:05:26.16 - [[34mDEVO[0m] 30418 Devuelto Size:6 Index:3
+2017.06.08-00:06:33.18 - [INFO] Loading logger config from: slog.cfg
+2017.06.08-00:06:35.65 - [[32mASIG[0m] 30668 Asignado Size:9 Delay:52
+2017.06.08-00:06:41.61 - [[32mASIG[0m] 30678 Asignado Size:8 Delay:52
+2017.06.08-00:06:47.65 - [[32mASIG[0m] 30705 Asignado Size:7 Delay:22
+2017.06.08-00:06:50.65 - [[32mASIG[0m] 30714 Asignado Size:5 Delay:45
+2017.06.08-00:06:55.64 - [[32mASIG[0m] 30728 Asignado Size:1 Delay:21
+2017.06.08-00:06:59.62 - [[32mASIG[0m] 30739 Asignado Size:8 Delay:48
+2017.06.08-00:07:05.62 - [[32mASIG[0m] 30766 Asignado Size:2 Delay:44
+2017.06.08-00:07:08.57 - [[33mWARN[0m] 30776 No entró a memoria.
+2017.06.08-00:07:09.70 - [[34mDEVO[0m] 30705 Devuelto Size:7 Index:2
+2017.06.08-00:07:11.57 - [[33mWARN[0m] 30797 No entró a memoria.
+2017.06.08-00:07:15.57 - [[33mWARN[0m] 30807 No entró a memoria.
+2017.06.08-00:07:16.67 - [[34mDEVO[0m] 30728 Devuelto Size:1 Index:0
+2017.06.08-00:07:18.57 - [[33mWARN[0m] 30817 No entró a memoria.
+2017.06.08-00:07:23.63 - [[32mASIG[0m] 30844 Asignado Size:3 Delay:34
+2017.06.08-00:07:27.58 - [[33mWARN[0m] 30863 No entró a memoria.
+2017.06.08-00:07:27.71 - [[34mDEVO[0m] 30668 Devuelto Size:9 Index:0
+2017.06.08-00:07:30.61 - [[32mASIG[0m] 30901 Asignado Size:2 Delay:45
+2017.06.08-00:07:33.65 - [[34mDEVO[0m] 30678 Devuelto Size:8 Index:3
+2017.06.08-00:07:35.64 - [[32mASIG[0m] 30932 Asignado Size:7 Delay:59
+2017.06.08-00:07:35.68 - [[34mDEVO[0m] 30714 Devuelto Size:5 Index:1
+2017.06.08-00:07:40.62 - [[32mASIG[0m] 30945 Asignado Size:8 Delay:53
+2017.06.08-00:07:43.66 - [[32mASIG[0m] 30955 Asignado Size:1 Delay:22
+2017.06.08-00:07:47.64 - [[32mASIG[0m] 30967 Asignado Size:5 Delay:24
+2017.06.08-00:07:47.68 - [[34mDEVO[0m] 30739 Devuelto Size:8 Index:4
+2017.06.08-00:07:49.66 - [[34mDEVO[0m] 30766 Devuelto Size:2 Index:4
+2017.06.08-00:07:50.63 - [[32mASIG[0m] 30969 Asignado Size:2 Delay:21
+2017.06.08-00:07:53.61 - [[32mASIG[0m] 30981 Asignado Size:5 Delay:53
+2017.06.08-00:07:57.61 - [[32mASIG[0m] 30998 Asignado Size:7 Delay:57
+2017.06.08-00:07:57.66 - [[34mDEVO[0m] 30844 Devuelto Size:3 Index:5
+2017.06.08-00:07:58.11 - [[33mWARN[0m] 31000 No entró a memoria.
+2017.06.08-00:08:02.11 - [[33mWARN[0m] 31010 No entró a memoria.
+2017.06.08-00:08:05.69 - [[34mDEVO[0m] 30955 Devuelto Size:1 Index:5
+2017.06.08-00:08:06.15 - [[32mASIG[0m] 31021 Asignado Size:3 Delay:40
+2017.06.08-00:10:14.36 - [INFO] Loading logger config from: slog.cfg
+2017.06.08-00:10:16.78 - [[32mASIG[0m] 31452 Asignado Size:10 Delay:43
+2017.06.08-00:10:21.77 - [[32mASIG[0m] 31468 Asignado Size:1 Delay:28
+2017.06.08-00:10:27.78 - [[32mASIG[0m] 31482 Asignado Size:2 Delay:30
+2017.06.08-00:10:32.83 - [[32mASIG[0m] 31496 Asignado Size:1 Delay:25
+2017.06.08-00:10:35.77 - [[32mASIG[0m] 31523 Asignado Size:6 Delay:57
+2017.06.08-00:10:41.75 - [[32mASIG[0m] 31537 Asignado Size:2 Delay:40
+2017.06.08-00:10:44.78 - [[32mASIG[0m] 31548 Asignado Size:9 Delay:33
+2017.06.08-00:10:48.71 - [[33mWARN[0m] 31564 No entró a memoria.
+2017.06.08-00:10:49.81 - [[34mDEVO[0m] 31468 Devuelto Size:1 Index:5
+2017.06.08-00:10:52.71 - [[33mWARN[0m] 31574 No entró a memoria.
+2017.06.08-00:10:55.78 - [[32mASIG[0m] 31578 Asignado Size:2 Delay:59
+2017.06.08-00:10:57.84 - [[34mDEVO[0m] 31482 Devuelto Size:2 Index:5
+2017.06.08-00:10:57.86 - [[34mDEVO[0m] 31496 Devuelto Size:1 Index:5
+2017.06.08-00:10:59.75 - [[32mASIG[0m] 31609 Asignado Size:7 Delay:55
+2017.06.08-00:10:59.82 - [[34mDEVO[0m] 31452 Devuelto Size:10 Index:0
+2017.06.08-00:11:04.75 - [[32mASIG[0m] 31619 Asignado Size:6 Delay:44
+2017.06.08-00:11:08.74 - [[32mASIG[0m] 31628 Asignado Size:6 Delay:42
+2017.06.08-00:11:14.75 - [[32mASIG[0m] 31653 Asignado Size:1 Delay:44
+2017.06.08-00:11:17.83 - [[34mDEVO[0m] 31548 Devuelto Size:9 Index:4
+2017.06.08-00:11:19.76 - [[32mASIG[0m] 31664 Asignado Size:10 Delay:40
+2017.06.08-00:11:21.90 - [[34mDEVO[0m] 31537 Devuelto Size:2 Index:1
+2017.06.08-00:11:23.71 - [[33mWARN[0m] 31687 No entró a memoria.
+2017.06.08-00:11:26.71 - [[33mWARN[0m] 31688 No entró a memoria.
+2017.06.08-00:11:30.77 - [[32mASIG[0m] 31705 Asignado Size:3 Delay:20
+2017.06.08-00:11:32.85 - [[34mDEVO[0m] 31523 Devuelto Size:6 Index:6
+2017.06.08-00:11:35.75 - [[32mASIG[0m] 31717 Asignado Size:6 Delay:45
+2017.06.08-00:11:38.71 - [[33mWARN[0m] 31726 No entró a memoria.
+2017.06.08-00:11:44.79 - [[32mASIG[0m] 31737 Asignado Size:1 Delay:54
+2017.06.08-00:11:47.79 - [[32mASIG[0m] 31751 Asignado Size:2 Delay:40
+2017.06.08-00:11:48.78 - [[34mDEVO[0m] 31619 Devuelto Size:6 Index:3
+2017.06.08-00:11:50.78 - [[32mASIG[0m] 31757 Asignado Size:7 Delay:54
+2017.06.08-00:11:50.81 - [[34mDEVO[0m] 31628 Devuelto Size:6 Index:0
+2017.06.08-00:11:50.85 - [[34mDEVO[0m] 31705 Devuelto Size:3 Index:0
+2017.06.08-00:11:53.80 - [[32mASIG[0m] 31769 Asignado Size:2 Delay:38
+2017.06.08-00:11:54.79 - [[34mDEVO[0m] 31609 Devuelto Size:7 Index:2
+2017.06.08-00:11:54.83 - [[34mDEVO[0m] 31578 Devuelto Size:2 Index:1
+2017.06.08-00:11:56.76 - [[32mASIG[0m] 31771 Asignado Size:1 Delay:25
+2017.06.08-00:11:58.84 - [[34mDEVO[0m] 31653 Devuelto Size:1 Index:1
+2017.06.08-00:11:59.79 - [[34mDEVO[0m] 31664 Devuelto Size:10 Index:4
+2017.06.08-00:12:02.82 - [[32mASIG[0m] 31793 Asignado Size:8 Delay:58
+2017.06.08-00:12:05.79 - [[32mASIG[0m] 31803 Asignado Size:5 Delay:27
+2017.06.08-00:12:10.80 - [[32mASIG[0m] 31813 Asignado Size:5 Delay:25
+2017.06.08-00:12:14.72 - [[33mWARN[0m] 31827 No entró a memoria.
+2017.06.08-00:12:17.72 - [[33mWARN[0m] 31828 No entró a memoria.
+2017.06.08-00:12:20.79 - [[34mDEVO[0m] 31717 Devuelto Size:6 Index:6
+2017.06.08-00:12:21.24 - [[34mDEVO[0m] 31771 Devuelto Size:1 Index:3
+2017.06.08-00:12:23.81 - [[32mASIG[0m] 31848 Asignado Size:3 Delay:34
+2017.06.08-00:12:27.84 - [[34mDEVO[0m] 31751 Devuelto Size:2 Index:1
+2017.06.08-00:12:28.77 - [[32mASIG[0m] 31862 Asignado Size:6 Delay:27
+2017.06.08-00:12:31.85 - [[34mDEVO[0m] 31769 Devuelto Size:2 Index:5
+2017.06.08-00:12:32.86 - [[34mDEVO[0m] 31803 Devuelto Size:5 Index:2
+2017.06.08-00:12:34.76 - [[32mASIG[0m] 31883 Asignado Size:4 Delay:40
+2017.06.08-00:12:35.90 - [[34mDEVO[0m] 31813 Devuelto Size:5 Index:4
+2017.06.08-00:12:38.82 - [[32mASIG[0m] 31894 Asignado Size:6 Delay:44
+2017.06.08-00:12:38.86 - [[34mDEVO[0m] 31737 Devuelto Size:1 Index:0
+2017.06.08-00:12:44.81 - [[32mASIG[0m] 31904 Asignado Size:6 Delay:48
+2017.06.08-00:12:44.85 - [[34mDEVO[0m] 31757 Devuelto Size:7 Index:3
+2017.06.08-00:12:47.80 - [[32mASIG[0m] 31909 Asignado Size:6 Delay:45
+2017.06.08-00:12:51.86 - [[32mASIG[0m] 31923 Asignado Size:3 Delay:57
+2017.06.08-00:12:55.84 - [[34mDEVO[0m] 31862 Devuelto Size:6 Index:6
+2017.06.08-00:12:56.76 - [[32mASIG[0m] 31941 Asignado Size:4 Delay:60
+2017.06.08-00:12:57.91 - [[34mDEVO[0m] 31848 Devuelto Size:3 Index:1
+2017.06.08-00:12:59.72 - [[33mWARN[0m] 31950 No entró a memoria.
+2017.06.08-00:13:00.96 - [[34mDEVO[0m] 31793 Devuelto Size:8 Index:0
+2017.06.08-00:13:03.76 - [[32mASIG[0m] 31960 Asignado Size:3 Delay:34
+2017.06.08-00:13:06.79 - [[32mASIG[0m] 31962 Asignado Size:6 Delay:26
+2017.06.08-00:13:09.82 - [[32mASIG[0m] 31973 Asignado Size:1 Delay:43
+2017.06.08-00:13:13.79 - [[32mASIG[0m] 31982 Asignado Size:3 Delay:27
+2017.06.08-00:13:14.81 - [[34mDEVO[0m] 31883 Devuelto Size:4 Index:5
+2017.06.08-00:13:18.77 - [[32mASIG[0m] 31984 Asignado Size:2 Delay:43
+2017.06.08-00:13:22.86 - [[34mDEVO[0m] 31894 Devuelto Size:6 Index:2
+2017.06.08-00:13:23.80 - [[32mASIG[0m] 31996 Asignado Size:6 Delay:36
+2017.06.08-00:13:28.72 - [[33mWARN[0m] 32004 No entró a memoria.
+2017.06.08-00:13:32.79 - [[32mASIG[0m] 32013 Asignado Size:2 Delay:35
+2017.06.08-00:13:32.82 - [[34mDEVO[0m] 31962 Devuelto Size:6 Index:0
+2017.06.08-00:13:32.86 - [[34mDEVO[0m] 31909 Devuelto Size:6 Index:3
+2017.06.08-00:13:32.90 - [[34mDEVO[0m] 31904 Devuelto Size:6 Index:4
+2017.06.08-00:13:37.83 - [[34mDEVO[0m] 31960 Devuelto Size:3 Index:1
+2017.06.08-00:13:38.76 - [[32mASIG[0m] 32027 Asignado Size:7 Delay:20
+2017.06.08-00:13:40.83 - [[34mDEVO[0m] 31982 Devuelto Size:3 Index:0
+2017.06.08-00:13:43.76 - [[32mASIG[0m] 32036 Asignado Size:2 Delay:59
+2017.06.08-00:13:48.01 - [[34mDEVO[0m] 31923 Devuelto Size:3 Index:4
+2017.06.08-00:13:49.78 - [[32mASIG[0m] 32066 Asignado Size:6 Delay:57
+2017.06.08-00:13:52.92 - [[34mDEVO[0m] 31973 Devuelto Size:1 Index:2
+2017.06.08-00:13:54.77 - [[32mASIG[0m] 32088 Asignado Size:2 Delay:57
+2017.06.08-00:13:56.81 - [[34mDEVO[0m] 31941 Devuelto Size:4 Index:6
+2017.06.08-00:13:57.76 - [[32mASIG[0m] 32108 Asignado Size:6 Delay:58
+2017.06.08-00:13:58.80 - [[34mDEVO[0m] 32027 Devuelto Size:7 Index:0
+2017.06.08-00:13:59.89 - [[34mDEVO[0m] 31996 Devuelto Size:6 Index:2
+2017.06.08-00:14:00.79 - [[32mASIG[0m] 32117 Asignado Size:6 Delay:34
+2017.06.08-00:14:01.83 - [[34mDEVO[0m] 31984 Devuelto Size:2 Index:1
+2017.06.08-00:14:06.81 - [[32mASIG[0m] 32125 Asignado Size:2 Delay:27
+2017.06.08-00:14:07.84 - [[34mDEVO[0m] 32013 Devuelto Size:2 Index:3
+2017.06.08-00:14:10.72 - [[33mWARN[0m] 32133 No entró a memoria.
+2017.06.08-00:14:16.80 - [[32mASIG[0m] 32142 Asignado Size:4 Delay:37
+2017.06.08-00:14:19.72 - [[33mWARN[0m] 32151 No entró a memoria.
+2017.06.08-00:14:23.77 - [[32mASIG[0m] 32152 Asignado Size:8 Delay:42
+2017.06.08-00:14:29.77 - [[32mASIG[0m] 32169 Asignado Size:5 Delay:40
+2017.06.08-00:14:33.77 - [[32mASIG[0m] 32187 Asignado Size:1 Delay:52
+2017.06.08-00:14:33.84 - [[34mDEVO[0m] 32125 Devuelto Size:2 Index:4
+2017.06.08-00:14:34.84 - [[34mDEVO[0m] 32117 Devuelto Size:6 Index:2
+2017.06.08-00:14:37.76 - [[32mASIG[0m] 32196 Asignado Size:5 Delay:31
+2017.06.08-00:14:40.72 - [[33mWARN[0m] 32205 No entró a memoria.
+2017.06.08-00:14:42.83 - [[34mDEVO[0m] 32036 Devuelto Size:2 Index:6
+2017.06.08-00:14:43.80 - [[32mASIG[0m] 32206 Asignado Size:2 Delay:41
+2017.06.08-00:14:46.82 - [[34mDEVO[0m] 32066 Devuelto Size:6 Index:3
+2017.06.08-00:14:47.77 - [[32mASIG[0m] 32222 Asignado Size:6 Delay:55
+2017.06.08-00:14:51.81 - [[34mDEVO[0m] 32088 Devuelto Size:2 Index:0
+2017.06.08-00:14:53.73 - [[33mWARN[0m] 32234 No entró a memoria.
+2017.06.08-00:14:53.84 - [[34mDEVO[0m] 32142 Devuelto Size:4 Index:5
+2017.06.08-00:14:55.85 - [[34mDEVO[0m] 32108 Devuelto Size:6 Index:4
+2017.06.08-00:14:59.80 - [[32mASIG[0m] 32265 Asignado Size:2 Delay:37
+2017.06.08-00:15:02.77 - [[32mASIG[0m] 32274 Asignado Size:7 Delay:59
+2017.06.08-00:15:05.76 - [[32mASIG[0m] 32283 Asignado Size:6 Delay:50
+2017.06.08-00:15:05.81 - [[34mDEVO[0m] 32152 Devuelto Size:8 Index:0
+2017.06.08-00:15:08.81 - [[34mDEVO[0m] 32196 Devuelto Size:5 Index:2
+2017.06.08-00:15:09.76 - [[32mASIG[0m] 32284 Asignado Size:3 Delay:54
+2017.06.08-00:15:09.80 - [[34mDEVO[0m] 32169 Devuelto Size:5 Index:1
+2017.06.08-00:15:13.81 - [[32mASIG[0m] 32298 Asignado Size:3 Delay:39
+2017.06.08-00:15:19.78 - [[32mASIG[0m] 32307 Asignado Size:1 Delay:25
+2017.06.08-00:15:23.76 - [[32mASIG[0m] 32317 Asignado Size:4 Delay:55
+2017.06.08-00:15:24.84 - [[34mDEVO[0m] 32206 Devuelto Size:2 Index:3
+2017.06.08-00:15:25.82 - [[34mDEVO[0m] 32187 Devuelto Size:1 Index:2
+2017.06.08-00:15:29.73 - [[33mWARN[0m] 32327 No entró a memoria.
+2017.06.08-00:15:33.77 - [[32mASIG[0m] 32338 Asignado Size:4 Delay:45
+2017.06.08-00:15:36.85 - [[34mDEVO[0m] 32265 Devuelto Size:2 Index:0
+2017.06.08-00:15:39.79 - [[32mASIG[0m] 32349 Asignado Size:9 Delay:36
+2017.06.08-00:15:42.85 - [[34mDEVO[0m] 32222 Devuelto Size:6 Index:3
+2017.06.08-00:15:44.84 - [[34mDEVO[0m] 32307 Devuelto Size:1 Index:5
+2017.06.08-00:15:45.78 - [[32mASIG[0m] 32362 Asignado Size:1 Delay:25
+2017.06.08-00:15:50.77 - [[32mASIG[0m] 32371 Asignado Size:7 Delay:53
+2017.06.08-00:15:52.85 - [[34mDEVO[0m] 32298 Devuelto Size:3 Index:5
+2017.06.08-00:15:55.79 - [[34mDEVO[0m] 32283 Devuelto Size:6 Index:6
+2017.06.08-00:15:56.77 - [[32mASIG[0m] 32392 Asignado Size:1 Delay:56
+2017.06.08-00:16:00.73 - [[33mWARN[0m] 32393 No entró a memoria.
+2017.06.08-00:16:01.83 - [[34mDEVO[0m] 32274 Devuelto Size:7 Index:4
+2017.06.08-00:16:03.80 - [[34mDEVO[0m] 32284 Devuelto Size:3 Index:4
+2017.06.08-00:16:05.76 - [[32mASIG[0m] 32405 Asignado Size:9 Delay:27
+2017.06.08-00:16:09.77 - [[32mASIG[0m] 32416 Asignado Size:3 Delay:38
+2017.06.08-00:16:10.81 - [[34mDEVO[0m] 32362 Devuelto Size:1 Index:0
+2017.06.08-00:16:13.73 - [[33mWARN[0m] 32424 No entró a memoria.
+2017.06.08-00:16:15.82 - [[34mDEVO[0m] 32349 Devuelto Size:9 Index:0
+2017.06.08-00:16:17.78 - [[32mASIG[0m] 32432 Asignado Size:3 Delay:47
+2017.06.08-00:16:18.82 - [[34mDEVO[0m] 32317 Devuelto Size:4 Index:1
+2017.06.08-00:16:18.85 - [[34mDEVO[0m] 32338 Devuelto Size:4 Index:2
+2017.06.08-00:16:21.77 - [[32mASIG[0m] 32441 Asignado Size:3 Delay:22
+2017.06.08-00:16:25.76 - [[32mASIG[0m] 32442 Asignado Size:10 Delay:30
+2017.06.08-00:16:30.78 - [[32mASIG[0m] 32451 Asignado Size:2 Delay:23
+2017.06.08-00:16:32.80 - [[34mDEVO[0m] 32405 Devuelto Size:9 Index:4
+2017.06.08-00:16:33.78 - [[32mASIG[0m] 32460 Asignado Size:6 Delay:22
+2017.06.08-00:16:38.81 - [[32mASIG[0m] 32469 Asignado Size:9 Delay:22
+2017.06.08-00:16:43.81 - [[34mDEVO[0m] 32371 Devuelto Size:7 Index:3
+2017.06.08-00:16:43.86 - [[34mDEVO[0m] 32441 Devuelto Size:3 Index:1
+2017.06.08-00:16:44.77 - [[32mASIG[0m] 32478 Asignado Size:2 Delay:48
+2017.06.08-00:16:47.81 - [[34mDEVO[0m] 32416 Devuelto Size:3 Index:2
+2017.06.08-00:16:48.81 - [[32mASIG[0m] 32490 Asignado Size:5 Delay:38
+2017.06.08-00:16:52.73 - [[33mWARN[0m] 32499 No entró a memoria.
+2017.06.08-00:16:52.82 - [[34mDEVO[0m] 32392 Devuelto Size:1 Index:1
+2017.06.08-00:16:53.81 - [[34mDEVO[0m] 32451 Devuelto Size:2 Index:2
+2017.06.08-00:16:55.80 - [[34mDEVO[0m] 32442 Devuelto Size:10 Index:0
+2017.06.08-00:16:55.83 - [[34mDEVO[0m] 32460 Devuelto Size:6 Index:6
+2017.06.08-00:16:57.77 - [[32mASIG[0m] 32529 Asignado Size:7 Delay:24
+2017.06.08-00:17:00.86 - [[34mDEVO[0m] 32469 Devuelto Size:9 Index:4
+2017.06.08-00:17:03.78 - [[32mASIG[0m] 32540 Asignado Size:9 Delay:56
+2017.06.08-00:17:04.82 - [[34mDEVO[0m] 32432 Devuelto Size:3 Index:5
+2017.06.08-00:17:07.77 - [[32mASIG[0m] 32549 Asignado Size:4 Delay:59
+2017.06.08-00:17:11.73 - [[33mWARN[0m] 32550 No entró a memoria.
+2017.06.08-00:17:16.76 - [[32mASIG[0m] 32559 Asignado Size:3 Delay:20
+2017.06.08-00:17:19.76 - [[32mASIG[0m] 32568 Asignado Size:5 Delay:53
+2017.06.08-00:17:21.81 - [[34mDEVO[0m] 32529 Devuelto Size:7 Index:0
+2017.06.08-00:17:25.78 - [[32mASIG[0m] 32577 Asignado Size:4 Delay:41
+2017.06.08-00:17:26.84 - [[34mDEVO[0m] 32490 Devuelto Size:5 Index:3
+2017.06.08-00:17:30.74 - [[33mWARN[0m] 32586 No entró a memoria.
+2017.06.08-00:17:32.80 - [[34mDEVO[0m] 32478 Devuelto Size:2 Index:2
+2017.06.08-00:17:36.74 - [[33mWARN[0m] 32595 No entró a memoria.
+2017.06.08-00:17:36.80 - [[34mDEVO[0m] 32559 Devuelto Size:3 Index:0
+2017.06.08-00:17:42.77 - [[32mASIG[0m] 32612 Asignado Size:1 Delay:58
+2017.06.08-00:17:46.77 - [[32mASIG[0m] 32616 Asignado Size:4 Delay:24
+2017.06.08-00:17:49.78 - [[32mASIG[0m] 32625 Asignado Size:1 Delay:36
+2017.06.08-00:17:53.77 - [[32mASIG[0m] 32638 Asignado Size:2 Delay:21
+2017.06.08-00:17:59.86 - [[32mASIG[0m] 32647 Asignado Size:2 Delay:48
+2017.06.08-00:17:59.90 - [[34mDEVO[0m] 32540 Devuelto Size:9 Index:4
+2017.06.08-00:18:03.77 - [[32mASIG[0m] 32656 Asignado Size:9 Delay:52
+2017.06.08-00:18:06.82 - [[34mDEVO[0m] 32549 Devuelto Size:4 Index:5
+2017.06.08-00:18:06.85 - [[34mDEVO[0m] 32577 Devuelto Size:4 Index:2
+2017.06.08-00:18:08.78 - [[32mASIG[0m] 32665 Asignado Size:2 Delay:40
+2017.06.08-00:18:10.82 - [[34mDEVO[0m] 32616 Devuelto Size:4 Index:6
+2017.06.08-00:18:12.77 - [[32mASIG[0m] 32666 Asignado Size:4 Delay:49
+2017.06.08-00:18:12.82 - [[34mDEVO[0m] 32568 Devuelto Size:5 Index:1
+2017.06.08-00:18:14.81 - [[34mDEVO[0m] 32638 Devuelto Size:2 Index:2
+2017.06.08-00:18:15.78 - [[32mASIG[0m] 32678 Asignado Size:3 Delay:29
+2017.06.08-00:18:20.79 - [[32mASIG[0m] 32687 Asignado Size:8 Delay:38
+2017.06.08-00:18:24.74 - [[33mWARN[0m] 32703 No entró a memoria.
+2017.06.08-00:18:25.81 - [[34mDEVO[0m] 32625 Devuelto Size:1 Index:6
+2017.06.08-00:18:30.78 - [[32mASIG[0m] 32711 Asignado Size:1 Delay:22
+2017.06.08-00:18:33.77 - [[32mASIG[0m] 32720 Asignado Size:1 Delay:56
+2017.06.08-00:18:37.77 - [[32mASIG[0m] 32721 Asignado Size:6 Delay:50
+2017.06.08-00:18:40.82 - [[34mDEVO[0m] 32612 Devuelto Size:1 Index:4
+2017.06.08-00:18:41.74 - [[33mWARN[0m] 32730 No entró a memoria.
+2017.06.08-00:18:44.77 - [[32mASIG[0m] 32739 Asignado Size:6 Delay:20
+2017.06.08-00:18:44.82 - [[34mDEVO[0m] 32678 Devuelto Size:3 Index:2
+2017.06.08-00:18:47.90 - [[34mDEVO[0m] 32647 Devuelto Size:2 Index:3
+2017.06.08-00:18:48.78 - [[32mASIG[0m] 32750 Asignado Size:5 Delay:54
+2017.06.08-00:18:48.82 - [[34mDEVO[0m] 32665 Devuelto Size:2 Index:5
+2017.06.08-00:18:51.74 - [[33mWARN[0m] 32751 No entró a memoria.
+2017.06.08-00:18:52.81 - [[34mDEVO[0m] 32711 Devuelto Size:1 Index:0
+2017.06.08-00:18:55.81 - [[34mDEVO[0m] 32656 Devuelto Size:9 Index:4
+2017.06.08-00:18:57.77 - [[32mASIG[0m] 302 Asignado Size:10 Delay:33
+2017.06.08-00:18:58.83 - [[34mDEVO[0m] 32687 Devuelto Size:8 Index:0
+2017.06.08-00:19:01.81 - [[34mDEVO[0m] 32666 Devuelto Size:4 Index:2
+2017.06.08-00:19:02.77 - [[32mASIG[0m] 313 Asignado Size:6 Delay:49
+2017.06.08-00:19:04.83 - [[34mDEVO[0m] 32739 Devuelto Size:6 Index:6
+2017.06.08-00:19:07.78 - [[32mASIG[0m] 324 Asignado Size:7 Delay:58
+2017.06.08-00:19:13.78 - [[32mASIG[0m] 345 Asignado Size:5 Delay:24
+2017.06.08-00:19:17.78 - [[32mASIG[0m] 348 Asignado Size:2 Delay:34
+2017.06.08-00:19:21.79 - [[32mASIG[0m] 357 Asignado Size:3 Delay:46
+2017.06.08-00:19:26.74 - [[33mWARN[0m] 368 No entró a memoria.
+2017.06.08-00:19:27.81 - [[34mDEVO[0m] 32721 Devuelto Size:6 Index:3
+2017.06.08-00:19:29.81 - [[34mDEVO[0m] 32720 Devuelto Size:1 Index:0
+2017.06.08-00:19:30.81 - [[34mDEVO[0m] 302 Devuelto Size:10 Index:4
+2017.06.08-00:19:32.79 - [[32mASIG[0m] 380 Asignado Size:8 Delay:44
+2017.06.08-00:19:35.78 - [[32mASIG[0m] 389 Asignado Size:4 Delay:41
+2017.06.08-00:19:37.82 - [[34mDEVO[0m] 345 Devuelto Size:5 Index:6
+2017.06.08-00:19:39.77 - [[32mASIG[0m] 403 Asignado Size:6 Delay:42
+2017.06.08-00:19:42.82 - [[34mDEVO[0m] 32750 Devuelto Size:5 Index:1
+2017.06.08-00:19:43.75 - [[33mWARN[0m] 404 No entró a memoria.
+2017.06.08-00:19:48.75 - [[33mWARN[0m] 420 No entró a memoria.
+2017.06.08-00:19:51.81 - [[34mDEVO[0m] 313 Devuelto Size:6 Index:2
+2017.06.08-00:19:51.85 - [[34mDEVO[0m] 348 Devuelto Size:2 Index:0
+2017.06.08-00:19:54.80 - [[32mASIG[0m] 440 Asignado Size:4 Delay:45
+2017.06.08-00:20:00.78 - [[32mASIG[0m] 472 Asignado Size:7 Delay:24
+2017.06.08-00:20:03.78 - [[32mASIG[0m] 478 Asignado Size:6 Delay:29
+2017.06.08-00:20:05.87 - [[34mDEVO[0m] 324 Devuelto Size:7 Index:0
+2017.06.08-00:20:07.89 - [[32mASIG[0m] 479 Asignado Size:2 Delay:39
+2017.06.08-00:20:07.92 - [[34mDEVO[0m] 357 Devuelto Size:3 Index:5
+2017.06.08-00:20:10.84 - [[32mASIG[0m] 480 Asignado Size:8 Delay:53
+2017.06.08-00:20:13.82 - [[32mASIG[0m] 481 Asignado Size:4 Delay:60
+2017.06.08-00:20:16.75 - [[33mWARN[0m] 508 No entró a memoria.
+2017.06.08-00:20:16.82 - [[34mDEVO[0m] 389 Devuelto Size:4 Index:4
+2017.06.08-00:20:16.85 - [[34mDEVO[0m] 380 Devuelto Size:8 Index:3
+2017.06.08-00:20:20.78 - [[32mASIG[0m] 513 Asignado Size:3 Delay:56
+2017.06.08-00:20:21.83 - [[34mDEVO[0m] 403 Devuelto Size:6 Index:4
+2017.06.08-00:20:23.75 - [[33mWARN[0m] 520 No entró a memoria.
+2017.06.08-00:20:24.83 - [[34mDEVO[0m] 472 Devuelto Size:7 Index:2
+2017.06.08-00:20:29.80 - [[32mASIG[0m] 529 Asignado Size:7 Delay:56
+2017.06.08-00:20:32.81 - [[34mDEVO[0m] 478 Devuelto Size:6 Index:6
+2017.06.08-00:20:35.78 - [[32mASIG[0m] 538 Asignado Size:1 Delay:42
+2017.06.08-00:20:39.93 - [[34mDEVO[0m] 440 Devuelto Size:4 Index:1
+2017.06.08-00:20:40.78 - [[32mASIG[0m] 547 Asignado Size:1 Delay:37
+2017.06.08-00:20:46.75 - [[33mWARN[0m] 589 No entró a memoria.
+2017.06.08-00:20:46.94 - [[34mDEVO[0m] 479 Devuelto Size:2 Index:0
+2017.06.08-00:20:51.78 - [[32mASIG[0m] 599 Asignado Size:6 Delay:55
+2017.06.08-00:20:54.81 - [[32mASIG[0m] 603 Asignado Size:8 Delay:24
+2017.06.08-00:21:00.75 - [[33mWARN[0m] 623 No entró a memoria.
+2017.06.08-00:21:03.87 - [[34mDEVO[0m] 480 Devuelto Size:8 Index:0
+2017.06.08-00:21:06.81 - [[32mASIG[0m] 651 Asignado Size:1 Delay:38
+2017.06.08-00:21:09.82 - [[32mASIG[0m] 662 Asignado Size:8 Delay:36
+2017.06.08-00:21:13.85 - [[34mDEVO[0m] 481 Devuelto Size:4 Index:5
+2017.06.08-00:21:14.78 - [[32mASIG[0m] 677 Asignado Size:5 Delay:24
+2017.06.08-00:21:16.82 - [[34mDEVO[0m] 513 Devuelto Size:3 Index:4
+2017.06.08-00:21:17.85 - [[34mDEVO[0m] 538 Devuelto Size:1 Index:1
+2017.06.08-00:21:17.89 - [[34mDEVO[0m] 547 Devuelto Size:1 Index:1
+2017.06.08-00:21:18.85 - [[34mDEVO[0m] 603 Devuelto Size:8 Index:3
+2017.06.08-00:21:19.83 - [[32mASIG[0m] 692 Asignado Size:6 Delay:58
+2017.06.08-00:21:23.75 - [[33mWARN[0m] 701 No entró a memoria.
+2017.06.08-00:21:25.88 - [[34mDEVO[0m] 529 Devuelto Size:7 Index:2
+2017.06.08-00:21:27.86 - [[32mASIG[0m] 713 Asignado Size:5 Delay:22
+2017.06.08-00:21:33.82 - [[32mASIG[0m] 728 Asignado Size:5 Delay:34
+2017.06.08-00:21:38.75 - [[33mWARN[0m] 737 No entró a memoria.
+2017.06.08-00:21:38.88 - [[34mDEVO[0m] 677 Devuelto Size:5 Index:4
+2017.06.08-00:21:42.86 - [[32mASIG[0m] 748 Asignado Size:5 Delay:38
+2017.06.08-00:21:44.86 - [[34mDEVO[0m] 651 Devuelto Size:1 Index:1
+2017.06.08-00:21:45.91 - [[34mDEVO[0m] 662 Devuelto Size:8 Index:0
+2017.06.08-00:21:46.87 - [[34mDEVO[0m] 599 Devuelto Size:6 Index:6
+2017.06.08-00:21:47.85 - [[32mASIG[0m] 759 Asignado Size:10 Delay:60
+2017.06.08-00:21:49.92 - [[34mDEVO[0m] 713 Devuelto Size:5 Index:4
+2017.06.08-00:21:53.83 - [[32mASIG[0m] 770 Asignado Size:6 Delay:23
+2017.06.08-00:21:58.75 - [[33mWARN[0m] 779 No entró a memoria.
+2017.06.08-00:22:01.83 - [[32mASIG[0m] 780 Asignado Size:2 Delay:29
+2017.06.08-00:22:07.80 - [[32mASIG[0m] 801 Asignado Size:5 Delay:25
+2017.06.08-00:22:07.85 - [[34mDEVO[0m] 728 Devuelto Size:5 Index:2
+2017.06.08-00:22:10.78 - [[32mASIG[0m] 803 Asignado Size:1 Delay:47
+2017.06.08-00:22:13.75 - [[33mWARN[0m] 811 No entró a memoria.
+2017.06.08-00:22:16.90 - [[34mDEVO[0m] 770 Devuelto Size:6 Index:6
+2017.06.08-00:22:17.86 - [[34mDEVO[0m] 692 Devuelto Size:6 Index:3
+2017.06.08-00:22:18.76 - [[33mWARN[0m] 830 No entró a memoria.
+2017.06.08-00:22:20.09 - [[34mDEVO[0m] 748 Devuelto Size:5 Index:4
+2017.06.08-00:22:23.80 - [[32mASIG[0m] 840 Asignado Size:2 Delay:51
+2017.06.08-00:22:27.80 - [[32mASIG[0m] 847 Asignado Size:6 Delay:54
+2017.06.08-00:22:30.87 - [[34mDEVO[0m] 780 Devuelto Size:2 Index:2
+2017.06.08-00:22:32.84 - [[34mDEVO[0m] 801 Devuelto Size:5 Index:1
+2017.06.08-00:22:33.79 - [[32mASIG[0m] 867 Asignado Size:9 Delay:55
+2017.06.08-00:22:37.76 - [[33mWARN[0m] 868 No entró a memoria.
+2017.06.08-00:22:42.76 - [[33mWARN[0m] 877 No entró a memoria.
+2017.06.08-00:22:47.89 - [[34mDEVO[0m] 759 Devuelto Size:10 Index:0
+2017.06.08-00:22:48.79 - [[32mASIG[0m] 900 Asignado Size:5 Delay:31
+2017.06.08-00:22:53.80 - [[32mASIG[0m] 909 Asignado Size:6 Delay:37
+2017.06.08-00:22:56.81 - [[32mASIG[0m] 924 Asignado Size:2 Delay:20
+2017.06.08-00:22:57.84 - [[34mDEVO[0m] 803 Devuelto Size:1 Index:3
+2017.06.08-00:23:01.82 - [[32mASIG[0m] 952 Asignado Size:7 Delay:45
+2017.06.08-00:23:04.79 - [[32mASIG[0m] 968 Asignado Size:3 Delay:50
+2017.06.08-00:23:10.76 - [[33mWARN[0m] 981 No entró a memoria.
+2017.06.08-00:23:14.84 - [[34mDEVO[0m] 840 Devuelto Size:2 Index:5
+2017.06.08-00:23:16.76 - [[33mWARN[0m] 995 No entró a memoria.
+2017.06.08-00:23:16.85 - [[34mDEVO[0m] 924 Devuelto Size:2 Index:5
+2017.06.08-00:23:19.85 - [[34mDEVO[0m] 900 Devuelto Size:5 Index:1
+2017.06.08-00:23:21.79 - [[32mASIG[0m] 1005 Asignado Size:7 Delay:35
+2017.06.08-00:23:21.83 - [[34mDEVO[0m] 847 Devuelto Size:6 Index:6
+2017.06.08-00:23:27.79 - [[32mASIG[0m] 1018 Asignado Size:1 Delay:50
+2017.06.08-00:23:28.83 - [[34mDEVO[0m] 867 Devuelto Size:9 Index:4
+2017.06.08-00:23:30.84 - [[34mDEVO[0m] 909 Devuelto Size:6 Index:2
+2017.06.08-00:23:31.80 - [[32mASIG[0m] 1030 Asignado Size:3 Delay:47
+2017.06.08-00:23:34.80 - [[32mASIG[0m] 1043 Asignado Size:9 Delay:41
+2017.06.08-00:23:40.76 - [[33mWARN[0m] 1110 No entró a memoria.
+2017.06.08-00:23:46.80 - [[32mASIG[0m] 1151 Asignado Size:3 Delay:39
+2017.06.08-00:23:46.86 - [[34mDEVO[0m] 952 Devuelto Size:7 Index:3
+2017.06.08-00:23:50.79 - [[32mASIG[0m] 1161 Asignado Size:6 Delay:25
+2017.06.08-00:23:53.76 - [[33mWARN[0m] 1168 No entró a memoria.
+2017.06.08-00:23:54.85 - [[34mDEVO[0m] 968 Devuelto Size:3 Index:0
+2017.06.08-00:23:56.83 - [[34mDEVO[0m] 1005 Devuelto Size:7 Index:0
+2017.06.08-00:23:57.81 - [[32mASIG[0m] 1177 Asignado Size:6 Delay:57
+2017.06.08-00:24:00.81 - [[32mASIG[0m] 1187 Asignado Size:7 Delay:35
+2017.06.08-00:24:05.80 - [[32mASIG[0m] 1209 Asignado Size:2 Delay:35
+2017.06.08-00:24:09.80 - [[32mASIG[0m] 1226 Asignado Size:6 Delay:56
+2017.06.08-00:24:13.76 - [[33mWARN[0m] 1227 No entró a memoria.
+2017.06.08-00:24:15.82 - [[34mDEVO[0m] 1161 Devuelto Size:6 Index:2
+2017.06.08-00:24:15.87 - [[34mDEVO[0m] 1043 Devuelto Size:9 Index:4
+2017.06.08-00:24:17.83 - [[34mDEVO[0m] 1018 Devuelto Size:1 Index:2
+2017.06.08-00:24:18.84 - [[34mDEVO[0m] 1030 Devuelto Size:3 Index:5
+2017.06.08-00:24:19.80 - [[32mASIG[0m] 1247 Asignado Size:5 Delay:26
+2017.06.08-00:24:23.79 - [[32mASIG[0m] 1251 Asignado Size:2 Delay:36
+2017.06.08-00:24:25.89 - [[34mDEVO[0m] 1151 Devuelto Size:3 Index:1
+2017.06.08-00:24:28.86 - [[32mASIG[0m] 1281 Asignado Size:6 Delay:22
+2017.06.08-00:24:32.76 - [[33mWARN[0m] 1290 No entró a memoria.
+2017.06.08-00:24:35.76 - [[33mWARN[0m] 1301 No entró a memoria.
+2017.06.08-00:24:35.87 - [[34mDEVO[0m] 1187 Devuelto Size:7 Index:3
+2017.06.08-00:24:39.81 - [[32mASIG[0m] 1304 Asignado Size:2 Delay:47
+2017.06.08-00:24:40.89 - [[34mDEVO[0m] 1209 Devuelto Size:2 Index:1
+2017.06.08-00:24:45.83 - [[32mASIG[0m] 1321 Asignado Size:8 Delay:44
+2017.06.08-00:24:45.88 - [[34mDEVO[0m] 1247 Devuelto Size:5 Index:2
+2017.06.08-00:24:50.81 - [[32mASIG[0m] 1330 Asignado Size:2 Delay:44
+2017.06.08-00:24:50.90 - [[34mDEVO[0m] 1281 Devuelto Size:6 Index:4
+2017.06.08-00:24:54.85 - [[34mDEVO[0m] 1177 Devuelto Size:6 Index:6
+2017.06.08-00:24:56.83 - [[32mASIG[0m] 1343 Asignado Size:1 Delay:40
+2017.06.08-00:24:59.93 - [[34mDEVO[0m] 1251 Devuelto Size:2 Index:2
+2017.06.08-00:25:02.82 - [[32mASIG[0m] 1408 Asignado Size:4 Delay:26
+2017.06.08-00:25:05.88 - [[34mDEVO[0m] 1226 Devuelto Size:6 Index:0
+2017.06.08-00:25:08.80 - [[32mASIG[0m] 1427 Asignado Size:2 Delay:34
+2017.06.08-00:25:14.79 - [[32mASIG[0m] 1454 Asignado Size:8 Delay:32
+2017.06.08-00:25:18.77 - [[33mWARN[0m] 1464 No entró a memoria.
+2017.06.08-00:25:22.77 - [[33mWARN[0m] 1473 No entró a memoria.
+2017.06.08-00:25:26.87 - [[34mDEVO[0m] 1304 Devuelto Size:2 Index:1
+2017.06.08-00:25:27.80 - [[32mASIG[0m] 1512 Asignado Size:1 Delay:44
+2017.06.08-00:25:28.85 - [[34mDEVO[0m] 1408 Devuelto Size:4 Index:0
+2017.06.08-00:25:29.92 - [[34mDEVO[0m] 1321 Devuelto Size:8 Index:3
+2017.06.08-00:25:30.82 - [[32mASIG[0m] 1518 Asignado Size:2 Delay:54
+2017.06.08-00:25:34.89 - [[34mDEVO[0m] 1330 Devuelto Size:2 Index:1
+2017.06.08-00:25:35.84 - [[32mASIG[0m] 1538 Asignado Size:1 Delay:49
+2017.06.08-00:25:36.90 - [[34mDEVO[0m] 1343 Devuelto Size:1 Index:1
+2017.06.08-00:25:38.87 - [[32mASIG[0m] 1555 Asignado Size:4 Delay:33
+2017.06.08-00:25:42.85 - [[34mDEVO[0m] 1427 Devuelto Size:2 Index:5
+2017.06.08-00:25:44.85 - [[32mASIG[0m] 1567 Asignado Size:1 Delay:25
+2017.06.08-00:25:46.86 - [[34mDEVO[0m] 1454 Devuelto Size:8 Index:4
+2017.06.08-00:25:47.84 - [[32mASIG[0m] 1583 Asignado Size:6 Delay:52
+2017.06.08-00:25:50.82 - [[32mASIG[0m] 1584 Asignado Size:7 Delay:21
+2017.06.08-00:25:53.83 - [[32mASIG[0m] 1594 Asignado Size:8 Delay:38
+2017.06.08-00:25:58.81 - [[32mASIG[0m] 1632 Asignado Size:6 Delay:37
+2017.06.08-00:26:02.82 - [[32mASIG[0m] 1645 Asignado Size:2 Delay:42
+2017.06.08-00:26:05.83 - [[32mASIG[0m] 1646 Asignado Size:5 Delay:54
+2017.06.08-00:26:09.77 - [[33mWARN[0m] 1664 No entró a memoria.
+2017.06.08-00:26:09.89 - [[34mDEVO[0m] 1567 Devuelto Size:1 Index:5
+2017.06.08-00:26:11.88 - [[34mDEVO[0m] 1512 Devuelto Size:1 Index:1
+2017.06.08-00:26:11.92 - [[34mDEVO[0m] 1584 Devuelto Size:7 Index:2
+2017.06.08-00:26:11.97 - [[34mDEVO[0m] 1555 Devuelto Size:4 Index:1
+2017.06.08-00:26:15.82 - [[32mASIG[0m] 1673 Asignado Size:3 Delay:40
+2017.06.08-00:26:20.80 - [[32mASIG[0m] 1731 Asignado Size:3 Delay:25
+2017.06.08-00:26:24.77 - [[33mWARN[0m] 1762 No entró a memoria.
+2017.06.08-00:26:24.86 - [[34mDEVO[0m] 1518 Devuelto Size:2 Index:4
+2017.06.08-00:26:24.91 - [[34mDEVO[0m] 1538 Devuelto Size:1 Index:5
+2017.06.08-00:26:27.82 - [[32mASIG[0m] 1771 Asignado Size:2 Delay:43
+2017.06.08-00:26:31.87 - [[34mDEVO[0m] 1594 Devuelto Size:8 Index:3
+2017.06.08-00:26:32.77 - [[33mWARN[0m] 1780 No entró a memoria.
+2017.06.08-00:26:35.86 - [[34mDEVO[0m] 1632 Devuelto Size:6 Index:4
+2017.06.08-00:26:36.84 - [[32mASIG[0m] 1781 Asignado Size:2 Delay:47
+2017.06.08-00:26:39.88 - [[34mDEVO[0m] 1583 Devuelto Size:6 Index:6
+2017.06.08-00:26:42.83 - [[32mASIG[0m] 1798 Asignado Size:7 Delay:21
+2017.06.08-00:26:44.87 - [[34mDEVO[0m] 1645 Devuelto Size:2 Index:4
+2017.06.08-00:26:45.85 - [[34mDEVO[0m] 1731 Devuelto Size:3 Index:0
+2017.06.08-00:26:47.81 - [[32mASIG[0m] 1809 Asignado Size:5 Delay:36
+2017.06.08-00:26:53.81 - [[32mASIG[0m] 1818 Asignado Size:9 Delay:46
+2017.06.08-00:26:55.86 - [[34mDEVO[0m] 1673 Devuelto Size:3 Index:5
+2017.06.08-00:26:56.81 - [[32mASIG[0m] 1820 Asignado Size:8 Delay:46
+2017.06.08-00:26:59.90 - [[34mDEVO[0m] 1646 Devuelto Size:5 Index:0
+2017.06.08-00:27:00.80 - [[32mASIG[0m] 1829 Asignado Size:3 Delay:25
+2017.06.08-00:27:03.87 - [[34mDEVO[0m] 1798 Devuelto Size:7 Index:2
+2017.06.08-00:27:04.82 - [[32mASIG[0m] 1840 Asignado Size:4 Delay:52
+2017.06.08-00:27:07.77 - [[33mWARN[0m] 1843 No entró a memoria.
+2017.06.08-00:27:10.83 - [[32mASIG[0m] 1861 Asignado Size:6 Delay:60
+2017.06.08-00:27:10.86 - [[34mDEVO[0m] 1771 Devuelto Size:2 Index:0
+2017.06.08-00:27:13.81 - [[32mASIG[0m] 1900 Asignado Size:3 Delay:26
+2017.06.08-00:27:16.81 - [[32mASIG[0m] 1912 Asignado Size:6 Delay:24
+2017.06.08-00:27:22.77 - [[33mWARN[0m] 1925 No entró a memoria.
+2017.06.08-00:27:23.88 - [[34mDEVO[0m] 1809 Devuelto Size:5 Index:6
+2017.06.08-00:27:23.93 - [[34mDEVO[0m] 1781 Devuelto Size:2 Index:1
+2017.06.08-00:27:25.85 - [[34mDEVO[0m] 1829 Devuelto Size:3 Index:1
+2017.06.08-00:27:26.82 - [[32mASIG[0m] 1934 Asignado Size:4 Delay:23
+2017.06.08-00:27:29.77 - [[33mWARN[0m] 1943 No entró a memoria.
+2017.06.08-00:27:34.82 - [[32mASIG[0m] 1955 Asignado Size:1 Delay:58
+2017.06.08-00:27:38.78 - [[33mWARN[0m] 1956 No entró a memoria.
+2017.06.08-00:27:39.86 - [[34mDEVO[0m] 1818 Devuelto Size:9 Index:4
+2017.06.08-00:27:39.90 - [[34mDEVO[0m] 1900 Devuelto Size:3 Index:0
+2017.06.08-00:27:40.86 - [[34mDEVO[0m] 1912 Devuelto Size:6 Index:0
+2017.06.08-00:27:42.85 - [[34mDEVO[0m] 1820 Devuelto Size:8 Index:3
+2017.06.08-00:27:43.80 - [[32mASIG[0m] 1975 Asignado Size:2 Delay:22
+2017.06.08-00:27:47.81 - [[32mASIG[0m] 2000 Asignado Size:4 Delay:25
+2017.06.08-00:27:49.89 - [[34mDEVO[0m] 1934 Devuelto Size:4 Index:1
+2017.06.08-00:27:53.88 - [[32mASIG[0m] 2009 Asignado Size:7 Delay:52
+2017.06.08-00:27:56.87 - [[34mDEVO[0m] 1840 Devuelto Size:4 Index:5
+2017.06.08-00:27:59.81 - [[32mASIG[0m] 2079 Asignado Size:7 Delay:53
+2017.06.08-00:28:04.81 - [[32mASIG[0m] 2098 Asignado Size:2 Delay:35
+2017.06.08-00:28:05.86 - [[34mDEVO[0m] 1975 Devuelto Size:2 Index:6
+2017.06.08-00:28:07.84 - [[32mASIG[0m] 2109 Asignado Size:9 Delay:55
+2017.06.08-00:28:10.87 - [[34mDEVO[0m] 1861 Devuelto Size:6 Index:2
+2017.06.08-00:28:12.85 - [[34mDEVO[0m] 2000 Devuelto Size:4 Index:6
+2017.06.08-00:28:13.82 - [[32mASIG[0m] 2127 Asignado Size:7 Delay:49
+2017.06.08-00:28:16.81 - [[32mASIG[0m] 2136 Asignado Size:6 Delay:42
+2017.06.08-00:28:19.81 - [[32mASIG[0m] 2145 Asignado Size:3 Delay:29
+2017.06.08-00:28:22.82 - [[32mASIG[0m] 2146 Asignado Size:5 Delay:42
+2017.06.08-00:28:25.78 - [[33mWARN[0m] 2154 No entró a memoria.
+2017.06.08-00:28:29.78 - [[33mWARN[0m] 2172 No entró a memoria.
+2017.06.08-00:28:32.87 - [[34mDEVO[0m] 1955 Devuelto Size:1 Index:0
+2017.06.08-00:28:34.78 - [[33mWARN[0m] 2184 No entró a memoria.
+2017.06.08-00:28:39.78 - [[33mWARN[0m] 2193 No entró a memoria.
+2017.06.08-00:28:39.86 - [[34mDEVO[0m] 2098 Devuelto Size:2 Index:0
+2017.06.08-00:28:45.78 - [[33mWARN[0m] 2207 No entró a memoria.
+2017.06.08-00:28:45.93 - [[34mDEVO[0m] 2009 Devuelto Size:7 Index:3
+2017.06.08-00:28:48.85 - [[34mDEVO[0m] 2145 Devuelto Size:3 Index:5
+2017.06.08-00:28:51.84 - [[32mASIG[0m] 2216 Asignado Size:3 Delay:56
+2017.06.08-00:28:52.86 - [[34mDEVO[0m] 2079 Devuelto Size:7 Index:0
+2017.06.08-00:28:55.84 - [[32mASIG[0m] 2233 Asignado Size:4 Delay:40
+2017.06.08-00:28:58.86 - [[34mDEVO[0m] 2136 Devuelto Size:6 Index:6
+2017.06.08-00:29:00.85 - [[32mASIG[0m] 2260 Asignado Size:4 Delay:49
+2017.06.08-00:29:02.89 - [[34mDEVO[0m] 2127 Devuelto Size:7 Index:2
+2017.06.08-00:29:02.92 - [[34mDEVO[0m] 2109 Devuelto Size:9 Index:4
+2017.06.08-00:29:04.89 - [[34mDEVO[0m] 2146 Devuelto Size:5 Index:1
+2017.06.08-00:29:05.87 - [[32mASIG[0m] 2293 Asignado Size:5 Delay:31
+2017.06.08-00:29:09.87 - [[32mASIG[0m] 2306 Asignado Size:1 Delay:55
+2017.06.08-00:29:12.82 - [[32mASIG[0m] 2307 Asignado Size:8 Delay:41
+2017.06.08-00:29:15.85 - [[32mASIG[0m] 2316 Asignado Size:10 Delay:28
+2017.06.08-00:29:20.83 - [[32mASIG[0m] 2325 Asignado Size:6 Delay:24
+2017.06.08-00:29:25.84 - [[32mASIG[0m] 2342 Asignado Size:4 Delay:30
+2017.06.08-00:29:31.78 - [[33mWARN[0m] 2351 No entró a memoria.
+2017.06.08-00:29:35.88 - [[34mDEVO[0m] 2233 Devuelto Size:4 Index:5
+2017.06.08-00:29:36.91 - [[34mDEVO[0m] 2293 Devuelto Size:5 Index:1
+2017.06.08-00:29:37.82 - [[32mASIG[0m] 2392 Asignado Size:2 Delay:51
+2017.06.08-00:29:41.78 - [[33mWARN[0m] 2401 No entró a memoria.
+2017.06.08-00:29:43.90 - [[34mDEVO[0m] 2316 Devuelto Size:10 Index:4
+2017.06.08-00:29:44.87 - [[34mDEVO[0m] 2325 Devuelto Size:6 Index:0
+2017.06.08-00:29:45.82 - [[32mASIG[0m] 2412 Asignado Size:10 Delay:28
+2017.06.08-00:29:47.90 - [[34mDEVO[0m] 2216 Devuelto Size:3 Index:0
+2017.06.08-00:29:49.93 - [[34mDEVO[0m] 2260 Devuelto Size:4 Index:6
+2017.06.08-00:29:51.82 - [[32mASIG[0m] 2452 Asignado Size:5 Delay:40
+2017.06.08-00:29:53.89 - [[34mDEVO[0m] 2307 Devuelto Size:8 Index:3
+2017.06.08-00:29:55.88 - [[34mDEVO[0m] 2342 Devuelto Size:4 Index:2
+2017.06.08-00:29:57.86 - [[32mASIG[0m] 2480 Asignado Size:1 Delay:39
+2017.06.08-00:30:00.82 - [[32mASIG[0m] 2515 Asignado Size:10 Delay:44
+2017.06.08-00:30:04.91 - [[34mDEVO[0m] 2306 Devuelto Size:1 Index:6
+2017.06.08-00:30:05.82 - [[32mASIG[0m] 2524 Asignado Size:4 Delay:59
+2017.06.08-00:30:09.86 - [[32mASIG[0m] 2528 Asignado Size:6 Delay:48
+2017.06.08-00:30:12.84 - [[32mASIG[0m] 2534 Asignado Size:4 Delay:47
+2017.06.08-00:30:13.89 - [[34mDEVO[0m] 2412 Devuelto Size:10 Index:4
+2017.06.08-00:30:18.82 - [[32mASIG[0m] 2566 Asignado Size:7 Delay:46
+2017.06.08-00:30:21.78 - [[33mWARN[0m] 2577 No entró a memoria.
+2017.06.08-00:30:26.83 - [[32mASIG[0m] 2586 Asignado Size:1 Delay:49
+2017.06.08-00:30:28.85 - [[34mDEVO[0m] 2392 Devuelto Size:2 Index:2
+2017.06.08-00:30:29.82 - [[32mASIG[0m] 2587 Asignado Size:3 Delay:37
+2017.06.08-00:30:31.86 - [[34mDEVO[0m] 2452 Devuelto Size:5 Index:1
+2017.06.08-00:30:32.82 - [[32mASIG[0m] 2596 Asignado Size:4 Delay:49
+2017.06.08-00:30:36.79 - [[33mWARN[0m] 2605 No entró a memoria.
+2017.06.08-00:30:36.90 - [[34mDEVO[0m] 2480 Devuelto Size:1 Index:5
+2017.06.08-00:30:39.82 - [[32mASIG[0m] 2606 Asignado Size:2 Delay:30
+2017.06.08-00:30:43.79 - [[33mWARN[0m] 2615 No entró a memoria.
+2017.06.08-00:30:44.88 - [[34mDEVO[0m] 2515 Devuelto Size:10 Index:0
+2017.06.08-00:30:47.86 - [[32mASIG[0m] 2639 Asignado Size:4 Delay:23
+2017.06.08-00:30:53.84 - [[32mASIG[0m] 2650 Asignado Size:9 Delay:29
+2017.06.08-00:30:57.83 - [[32mASIG[0m] 2659 Asignado Size:1 Delay:25
+2017.06.08-00:30:57.90 - [[34mDEVO[0m] 2528 Devuelto Size:6 Index:6
+2017.06.08-00:30:59.93 - [[34mDEVO[0m] 2534 Devuelto Size:4 Index:3
+2017.06.08-00:31:01.84 - [[32mASIG[0m] 2668 Asignado Size:5 Delay:28
+2017.06.08-00:31:04.79 - [[33mWARN[0m] 2669 No entró a memoria.
+2017.06.08-00:31:04.85 - [[34mDEVO[0m] 2566 Devuelto Size:7 Index:4
+2017.06.08-00:31:04.90 - [[34mDEVO[0m] 2524 Devuelto Size:4 Index:2
+2017.06.08-00:31:06.87 - [[34mDEVO[0m] 2587 Devuelto Size:3 Index:4
+2017.06.08-00:31:09.89 - [[34mDEVO[0m] 2606 Devuelto Size:2 Index:2
+2017.06.08-00:31:10.84 - [[32mASIG[0m] 2684 Asignado Size:4 Delay:34
+2017.06.08-00:31:10.90 - [[34mDEVO[0m] 2639 Devuelto Size:4 Index:5
+2017.06.08-00:31:15.90 - [[34mDEVO[0m] 2586 Devuelto Size:1 Index:2
+2017.06.08-00:31:16.87 - [[32mASIG[0m] 2697 Asignado Size:5 Delay:47
+2017.06.08-00:31:21.86 - [[32mASIG[0m] 2706 Asignado Size:7 Delay:48
+2017.06.08-00:31:21.90 - [[34mDEVO[0m] 2596 Devuelto Size:4 Index:3
+2017.06.08-00:31:22.92 - [[34mDEVO[0m] 2659 Devuelto Size:1 Index:0
+2017.06.08-00:31:22.97 - [[34mDEVO[0m] 2650 Devuelto Size:9 Index:0
+2017.06.08-00:31:26.85 - [[32mASIG[0m] 2715 Asignado Size:4 Delay:35
+2017.06.08-00:31:29.89 - [[34mDEVO[0m] 2668 Devuelto Size:5 Index:1
+2017.06.08-00:31:32.83 - [[32mASIG[0m] 2734 Asignado Size:3 Delay:25
+2017.06.08-00:31:35.83 - [[32mASIG[0m] 2735 Asignado Size:7 Delay:32
+2017.06.08-00:31:39.82 - [[32mASIG[0m] 2743 Asignado Size:6 Delay:60
+2017.06.08-00:31:42.83 - [[32mASIG[0m] 2755 Asignado Size:1 Delay:36
+2017.06.08-00:31:44.88 - [[34mDEVO[0m] 2684 Devuelto Size:4 Index:3
+2017.06.08-00:31:48.83 - [[32mASIG[0m] 2769 Asignado Size:4 Delay:35
+2017.06.08-00:31:54.79 - [[33mWARN[0m] 2779 No entró a memoria.
+2017.06.08-00:31:57.90 - [[34mDEVO[0m] 2734 Devuelto Size:3 Index:5
+2017.06.08-00:31:58.79 - [[33mWARN[0m] 2810 No entró a memoria.
+2017.06.08-00:32:01.90 - [[34mDEVO[0m] 2715 Devuelto Size:4 Index:3
+2017.06.08-00:32:02.79 - [[33mWARN[0m] 2828 No entró a memoria.
+2017.06.08-00:32:03.91 - [[34mDEVO[0m] 2697 Devuelto Size:5 Index:6
+2017.06.08-00:32:07.87 - [[34mDEVO[0m] 2735 Devuelto Size:7 Index:0
+2017.06.08-00:32:08.85 - [[32mASIG[0m] 2837 Asignado Size:3 Delay:50
+2017.06.08-00:32:09.91 - [[34mDEVO[0m] 2706 Devuelto Size:7 Index:2
+2017.06.08-00:32:13.83 - [[32mASIG[0m] 2846 Asignado Size:6 Delay:40
+2017.06.08-00:32:18.83 - [[32mASIG[0m] 2866 Asignado Size:8 Delay:58
+2017.06.08-00:32:18.88 - [[34mDEVO[0m] 2755 Devuelto Size:1 Index:5
+2017.06.08-00:32:23.83 - [[32mASIG[0m] 2875 Asignado Size:6 Delay:60
+2017.06.08-00:32:23.87 - [[34mDEVO[0m] 2769 Devuelto Size:4 Index:3
+2017.06.08-00:32:29.84 - [[32mASIG[0m] 2888 Asignado Size:2 Delay:35
+2017.06.08-00:32:32.83 - [[32mASIG[0m] 2897 Asignado Size:1 Delay:52
+2017.06.08-00:32:37.84 - [[32mASIG[0m] 2906 Asignado Size:5 Delay:56
+2017.06.08-00:32:39.87 - [[34mDEVO[0m] 2743 Devuelto Size:6 Index:4
+2017.06.08-00:32:41.82 - [[32mASIG[0m] 2915 Asignado Size:8 Delay:48
+2017.06.08-00:32:46.83 - [[32mASIG[0m] 2929 Asignado Size:9 Delay:59
+2017.06.08-00:32:51.79 - [[33mWARN[0m] 2933 No entró a memoria.
+2017.06.08-00:32:53.87 - [[34mDEVO[0m] 2846 Devuelto Size:6 Index:6
+2017.06.08-00:32:55.80 - [[33mWARN[0m] 2945 No entró a memoria.
+2017.06.08-00:32:58.84 - [[32mASIG[0m] 2956 Asignado Size:2 Delay:27
+2017.06.08-00:32:58.89 - [[34mDEVO[0m] 2837 Devuelto Size:3 Index:5
+2017.06.08-00:33:04.79 - [[33mWARN[0m] 2966 No entró a memoria.
+2017.06.08-00:33:04.88 - [[34mDEVO[0m] 2888 Devuelto Size:2 Index:0
+2017.06.08-00:33:10.79 - [[33mWARN[0m] 2975 No entró a memoria.
+2017.06.08-00:33:14.80 - [[33mWARN[0m] 2984 No entró a memoria.
+2017.06.08-00:33:16.93 - [[34mDEVO[0m] 2866 Devuelto Size:8 Index:0
+2017.06.08-00:33:19.84 - [[32mASIG[0m] 2993 Asignado Size:1 Delay:27
+2017.06.08-00:33:23.82 - [[32mASIG[0m] 3002 Asignado Size:2 Delay:40
+2017.06.08-00:33:23.87 - [[34mDEVO[0m] 2875 Devuelto Size:6 Index:2
+2017.06.08-00:33:24.88 - [[34mDEVO[0m] 2897 Devuelto Size:1 Index:2
+2017.06.08-00:33:25.89 - [[34mDEVO[0m] 2956 Devuelto Size:2 Index:6
+2017.06.08-00:33:27.85 - [[32mASIG[0m] 3011 Asignado Size:2 Delay:45
+2017.06.08-00:33:29.87 - [[34mDEVO[0m] 2915 Devuelto Size:8 Index:3
+2017.06.08-00:33:32.83 - [[32mASIG[0m] 3020 Asignado Size:6 Delay:22
+2017.06.08-00:33:33.89 - [[34mDEVO[0m] 2906 Devuelto Size:5 Index:1
+2017.06.08-00:33:38.83 - [[32mASIG[0m] 3038 Asignado Size:9 Delay:26
+2017.06.08-00:33:44.84 - [[32mASIG[0m] 3048 Asignado Size:7 Delay:47
+2017.06.08-00:33:45.89 - [[34mDEVO[0m] 2929 Devuelto Size:9 Index:4
+2017.06.08-00:33:46.89 - [[34mDEVO[0m] 2993 Devuelto Size:1 Index:4
+2017.06.08-00:33:48.83 - [[32mASIG[0m] 3073 Asignado Size:6 Delay:32
+2017.06.08-00:33:53.90 - [[32mASIG[0m] 3082 Asignado Size:1 Delay:36
+2017.06.08-00:33:54.92 - [[34mDEVO[0m] 3020 Devuelto Size:6 Index:6
+2017.06.08-00:33:59.84 - [[32mASIG[0m] 3098 Asignado Size:6 Delay:26
+2017.06.08-00:34:03.90 - [[34mDEVO[0m] 3002 Devuelto Size:2 Index:5
+2017.06.08-00:34:04.88 - [[34mDEVO[0m] 3038 Devuelto Size:9 Index:0
+2017.06.08-00:34:05.86 - [[32mASIG[0m] 3109 Asignado Size:8 Delay:57
+2017.06.08-00:34:08.88 - [[32mASIG[0m] 3131 Asignado Size:2 Delay:47
+2017.06.08-00:34:12.91 - [[34mDEVO[0m] 3011 Devuelto Size:2 Index:5
+2017.06.08-00:34:13.84 - [[32mASIG[0m] 3140 Asignado Size:9 Delay:55
+2017.06.08-00:34:16.87 - [[32mASIG[0m] 3141 Asignado Size:4 Delay:59
+2017.06.08-00:34:20.93 - [[34mDEVO[0m] 3073 Devuelto Size:6 Index:3
+2017.06.08-00:34:22.80 - [[33mWARN[0m] 3151 No entró a memoria.
+2017.06.08-00:34:25.90 - [[34mDEVO[0m] 3098 Devuelto Size:6 Index:6
+2017.06.08-00:34:27.90 - [[32mASIG[0m] 3168 Asignado Size:3 Delay:47
+2017.06.08-00:34:29.95 - [[34mDEVO[0m] 3082 Devuelto Size:1 Index:0
+2017.06.08-00:34:30.84 - [[32mASIG[0m] 3178 Asignado Size:2 Delay:22
+2017.06.08-00:34:31.88 - [[34mDEVO[0m] 3048 Devuelto Size:7 Index:2
+2017.06.08-00:34:35.84 - [[32mASIG[0m] 3197 Asignado Size:2 Delay:40
+2017.06.08-00:34:38.84 - [[32mASIG[0m] 3206 Asignado Size:1 Delay:45
+2017.06.08-00:34:44.80 - [[33mWARN[0m] 3249 No entró a memoria.
+2017.06.08-00:34:49.80 - [[33mWARN[0m] 3263 No entró a memoria.
+2017.06.08-00:34:52.84 - [[32mASIG[0m] 3280 Asignado Size:4 Delay:24
+2017.06.08-00:34:52.88 - [[34mDEVO[0m] 3178 Devuelto Size:2 Index:0
+2017.06.08-00:34:55.98 - [[34mDEVO[0m] 3131 Devuelto Size:2 Index:3
+2017.06.08-00:34:56.92 - [[32mASIG[0m] 3300 Asignado Size:7 Delay:37
+2017.06.08-00:35:00.80 - [[33mWARN[0m] 3345 No entró a memoria.
+2017.06.08-00:35:02.93 - [[34mDEVO[0m] 3109 Devuelto Size:8 Index:0
+2017.06.08-00:35:06.94 - [[32mASIG[0m] 3365 Asignado Size:6 Delay:58
+2017.06.08-00:35:08.88 - [[34mDEVO[0m] 3140 Devuelto Size:9 Index:4
+2017.06.08-00:35:12.87 - [[32mASIG[0m] 3384 Asignado Size:10 Delay:54
+2017.06.08-00:35:14.03 - [[34mDEVO[0m] 3168 Devuelto Size:3 Index:1
+2017.06.08-00:35:15.99 - [[34mDEVO[0m] 3197 Devuelto Size:2 Index:1
+2017.06.08-00:35:15.05 - [[34mDEVO[0m] 3141 Devuelto Size:4 Index:5
+2017.06.08-00:35:16.84 - [[32mASIG[0m] 3398 Asignado Size:1 Delay:31
+2017.06.08-00:35:16.89 - [[34mDEVO[0m] 3280 Devuelto Size:4 Index:3
+2017.06.08-00:35:19.85 - [[32mASIG[0m] 3410 Asignado Size:7 Delay:29
+2017.06.08-00:35:23.89 - [[34mDEVO[0m] 3206 Devuelto Size:1 Index:4
+2017.06.08-00:35:24.85 - [[32mASIG[0m] 3421 Asignado Size:4 Delay:54
+2017.06.08-00:35:27.86 - [[32mASIG[0m] 3423 Asignado Size:8 Delay:33
+2017.06.08-00:35:33.80 - [[33mWARN[0m] 3439 No entró a memoria.
+2017.06.08-00:35:33.96 - [[34mDEVO[0m] 3300 Devuelto Size:7 Index:2
+2017.06.08-00:35:38.85 - [[32mASIG[0m] 3440 Asignado Size:5 Delay:22
+2017.06.08-00:35:44.84 - [[32mASIG[0m] 3460 Asignado Size:6 Delay:20
+2017.06.08-00:35:47.88 - [[34mDEVO[0m] 3398 Devuelto Size:1 Index:3
+2017.06.08-00:35:48.90 - [[34mDEVO[0m] 3410 Devuelto Size:7 Index:3
+2017.06.08-00:35:49.85 - [[32mASIG[0m] 3482 Asignado Size:2 Delay:27
+2017.06.08-00:35:54.84 - [[32mASIG[0m] 3497 Asignado Size:1 Delay:29
+2017.06.08-00:35:58.85 - [[32mASIG[0m] 3498 Asignado Size:4 Delay:30
+2017.06.08-00:36:00.90 - [[34mDEVO[0m] 3440 Devuelto Size:5 Index:1
+2017.06.08-00:36:00.93 - [[34mDEVO[0m] 3423 Devuelto Size:8 Index:4
+2017.06.08-00:36:04.84 - [[32mASIG[0m] 3515 Asignado Size:6 Delay:37
+2017.06.08-00:36:04.89 - [[34mDEVO[0m] 3460 Devuelto Size:6 Index:2
+2017.06.08-00:36:04.98 - [[34mDEVO[0m] 3365 Devuelto Size:6 Index:6
+2017.06.08-00:36:06.98 - [[34mDEVO[0m] 3384 Devuelto Size:10 Index:0
+2017.06.08-00:36:09.86 - [[32mASIG[0m] 3534 Asignado Size:7 Delay:39
+2017.06.08-00:36:13.90 - [[32mASIG[0m] 3535 Asignado Size:5 Delay:48
+2017.06.08-00:36:16.92 - [[34mDEVO[0m] 3482 Devuelto Size:2 Index:4
+2017.06.08-00:36:17.80 - [[33mWARN[0m] 3575 No entró a memoria.
+2017.06.08-00:36:18.92 - [[34mDEVO[0m] 3421 Devuelto Size:4 Index:5
+2017.06.08-00:36:21.86 - [[32mASIG[0m] 3588 Asignado Size:5 Delay:24
+2017.06.08-00:36:23.90 - [[34mDEVO[0m] 3497 Devuelto Size:1 Index:2
+2017.06.08-00:36:25.85 - [[32mASIG[0m] 3597 Asignado Size:4 Delay:36
+2017.06.08-00:36:28.93 - [[34mDEVO[0m] 3498 Devuelto Size:4 Index:3
+2017.06.08-00:36:29.88 - [[32mASIG[0m] 3606 Asignado Size:4 Delay:24
+2017.06.08-00:36:34.81 - [[33mWARN[0m] 3614 No entró a memoria.
+2017.06.08-00:36:38.80 - [[33mWARN[0m] 3619 No entró a memoria.
+2017.06.08-00:36:41.95 - [[34mDEVO[0m] 3515 Devuelto Size:6 Index:4
+2017.06.08-00:36:42.87 - [[32mASIG[0m] 3631 Asignado Size:3 Delay:50
+2017.06.08-00:36:45.87 - [[32mASIG[0m] 3639 Asignado Size:4 Delay:47
+2017.06.08-00:36:45.98 - [[34mDEVO[0m] 3588 Devuelto Size:5 Index:2
+2017.06.08-00:36:48.93 - [[34mDEVO[0m] 3534 Devuelto Size:7 Index:0
+2017.06.08-00:36:51.91 - [[32mASIG[0m] 3648 Asignado Size:5 Delay:33
+2017.06.08-00:36:53.98 - [[34mDEVO[0m] 3606 Devuelto Size:4 Index:3
+2017.06.08-00:36:54.88 - [[32mASIG[0m] 3661 Asignado Size:6 Delay:29
+2017.06.08-00:37:00.85 - [[32mASIG[0m] 3677 Asignado Size:9 Delay:23
+2017.06.08-00:37:01.89 - [[34mDEVO[0m] 3597 Devuelto Size:4 Index:3
+2017.06.08-00:37:01.94 - [[34mDEVO[0m] 3535 Devuelto Size:5 Index:1
+2017.06.08-00:37:06.85 - [[32mASIG[0m] 3690 Asignado Size:3 Delay:27
+2017.06.08-00:37:11.86 - [[32mASIG[0m] 3711 Asignado Size:4 Delay:35
+2017.06.08-00:37:14.89 - [[32mASIG[0m] 3714 Asignado Size:8 Delay:48
+2017.06.08-00:37:20.89 - [[32mASIG[0m] 3723 Asignado Size:1 Delay:45
+2017.06.08-00:37:23.89 - [[34mDEVO[0m] 3677 Devuelto Size:9 Index:4
+2017.06.08-00:37:23.93 - [[34mDEVO[0m] 3661 Devuelto Size:6 Index:0
+2017.06.08-00:37:24.95 - [[34mDEVO[0m] 3648 Devuelto Size:5 Index:6
+2017.06.08-00:37:26.84 - [[32mASIG[0m] 3734 Asignado Size:4 Delay:45
+2017.06.08-00:37:29.84 - [[32mASIG[0m] 3743 Asignado Size:2 Delay:45
+2017.06.08-00:37:32.91 - [[34mDEVO[0m] 3631 Devuelto Size:3 Index:0
+2017.06.08-00:37:32.96 - [[34mDEVO[0m] 3639 Devuelto Size:4 Index:5
+2017.06.08-00:37:33.86 - [[32mASIG[0m] 3752 Asignado Size:8 Delay:39
+2017.06.08-00:37:33.90 - [[34mDEVO[0m] 3690 Devuelto Size:3 Index:1
+2017.06.08-00:37:39.81 - [[33mWARN[0m] 3763 No entró a memoria.
+2017.06.08-00:37:45.81 - [[33mWARN[0m] 3774 No entró a memoria.
+2017.06.08-00:37:46.90 - [[34mDEVO[0m] 3711 Devuelto Size:4 Index:2
+2017.06.08-00:37:51.87 - [[32mASIG[0m] 3784 Asignado Size:1 Delay:36
+2017.06.08-00:37:57.81 - [[33mWARN[0m] 3827 No entró a memoria.
+2017.06.08-00:38:02.94 - [[34mDEVO[0m] 3714 Devuelto Size:8 Index:3
+2017.06.08-00:38:03.85 - [[32mASIG[0m] 3849 Asignado Size:2 Delay:35
+2017.06.08-00:38:05.94 - [[34mDEVO[0m] 3723 Devuelto Size:1 Index:0
+2017.06.08-00:38:06.81 - [[33mWARN[0m] 3852 No entró a memoria.
+2017.06.08-00:38:11.92 - [[34mDEVO[0m] 3734 Devuelto Size:4 Index:0
+2017.06.08-00:38:12.90 - [[32mASIG[0m] 3871 Asignado Size:2 Delay:52
+2017.06.08-00:38:12.95 - [[34mDEVO[0m] 3752 Devuelto Size:8 Index:4
+2017.06.08-00:38:14.95 - [[34mDEVO[0m] 3743 Devuelto Size:2 Index:0
+2017.06.08-00:38:16.81 - [[33mWARN[0m] 3892 No entró a memoria.
+2017.06.08-00:38:20.85 - [[32mASIG[0m] 3904 Asignado Size:5 Delay:40
+2017.06.08-00:38:23.89 - [[32mASIG[0m] 3913 Asignado Size:9 Delay:47
+2017.06.08-00:38:27.95 - [[34mDEVO[0m] 3784 Devuelto Size:1 Index:4
+2017.06.08-00:38:28.85 - [[32mASIG[0m] 3924 Asignado Size:2 Delay:43
+2017.06.08-00:38:32.81 - [[33mWARN[0m] 3931 No entró a memoria.
+2017.06.08-00:38:37.88 - [[32mASIG[0m] 3947 Asignado Size:7 Delay:49
+2017.06.08-00:38:38.88 - [[34mDEVO[0m] 3849 Devuelto Size:2 Index:0
+2017.06.08-00:38:42.85 - [[32mASIG[0m] 3976 Asignado Size:2 Delay:25
+2017.06.08-00:38:48.85 - [[32mASIG[0m] 4044 Asignado Size:1 Delay:21
+2017.06.08-00:38:52.88 - [[32mASIG[0m] 4045 Asignado Size:6 Delay:57
+2017.06.08-00:38:58.88 - [[32mASIG[0m] 4065 Asignado Size:3 Delay:55
+2017.06.08-00:39:00.90 - [[34mDEVO[0m] 3904 Devuelto Size:5 Index:1
+2017.06.08-00:39:02.88 - [[32mASIG[0m] 4073 Asignado Size:10 Delay:21
+2017.06.08-00:39:04.98 - [[34mDEVO[0m] 3871 Devuelto Size:2 Index:5
+2017.06.08-00:39:07.88 - [[32mASIG[0m] 4082 Asignado Size:4 Delay:56
+2017.06.08-00:39:07.92 - [[34mDEVO[0m] 3976 Devuelto Size:2 Index:6
+2017.06.08-00:39:09.92 - [[34mDEVO[0m] 4044 Devuelto Size:1 Index:4
+2017.06.08-00:39:10.93 - [[34mDEVO[0m] 3913 Devuelto Size:9 Index:4
+2017.06.08-00:39:11.87 - [[32mASIG[0m] 4091 Asignado Size:1 Delay:28
+2017.06.08-00:39:11.91 - [[34mDEVO[0m] 3924 Devuelto Size:2 Index:5
+2017.06.08-00:39:14.89 - [[32mASIG[0m] 4101 Asignado Size:2 Delay:48
+2017.06.08-00:39:19.89 - [[32mASIG[0m] 4111 Asignado Size:7 Delay:44
+2017.06.08-00:39:22.87 - [[32mASIG[0m] 4112 Asignado Size:1 Delay:29
+2017.06.08-00:39:23.95 - [[34mDEVO[0m] 4073 Devuelto Size:10 Index:0
+2017.06.08-00:39:25.91 - [[32mASIG[0m] 4130 Asignado Size:2 Delay:49
+2017.06.08-00:39:26.96 - [[34mDEVO[0m] 3947 Devuelto Size:7 Index:2
+2017.06.08-00:39:31.92 - [[32mASIG[0m] 4146 Asignado Size:4 Delay:30
+2017.06.08-00:39:37.85 - [[32mASIG[0m] 4156 Asignado Size:1 Delay:31
+2017.06.08-00:39:39.91 - [[34mDEVO[0m] 4091 Devuelto Size:1 Index:1
+2017.06.08-00:39:41.85 - [[32mASIG[0m] 4174 Asignado Size:8 Delay:37
+2017.06.08-00:39:47.82 - [[33mWARN[0m] 4199 No entró a memoria.
+2017.06.08-00:39:49.92 - [[34mDEVO[0m] 4045 Devuelto Size:6 Index:3
+2017.06.08-00:39:50.82 - [[33mWARN[0m] 4213 No entró a memoria.
+2017.06.08-00:39:51.92 - [[34mDEVO[0m] 4112 Devuelto Size:1 Index:4
+2017.06.08-00:39:53.92 - [[34mDEVO[0m] 4065 Devuelto Size:3 Index:6
+2017.06.08-00:39:54.87 - [[32mASIG[0m] 4232 Asignado Size:4 Delay:34
+2017.06.08-00:40:00.89 - [[32mASIG[0m] 4287 Asignado Size:1 Delay:41
+2017.06.08-00:40:01.96 - [[34mDEVO[0m] 4146 Devuelto Size:4 Index:5
+2017.06.08-00:40:02.94 - [[34mDEVO[0m] 4101 Devuelto Size:2 Index:3
+2017.06.08-00:40:03.85 - [[32mASIG[0m] 4288 Asignado Size:1 Delay:51
+2017.06.08-00:40:03.92 - [[34mDEVO[0m] 4082 Devuelto Size:4 Index:1
+2017.06.08-00:40:03.96 - [[34mDEVO[0m] 4111 Devuelto Size:7 Index:4
+2017.06.08-00:40:07.85 - [[32mASIG[0m] 4301 Asignado Size:5 Delay:57
+2017.06.08-00:40:08.92 - [[34mDEVO[0m] 4156 Devuelto Size:1 Index:6
+2017.06.08-00:40:11.88 - [[32mASIG[0m] 4347 Asignado Size:1 Delay:38
+2017.06.08-00:40:14.88 - [[32mASIG[0m] 4369 Asignado Size:4 Delay:21
+2017.06.08-00:40:14.95 - [[34mDEVO[0m] 4130 Devuelto Size:2 Index:4
+2017.06.08-00:40:17.88 - [[32mASIG[0m] 4370 Asignado Size:7 Delay:20
+2017.06.08-00:40:18.90 - [[34mDEVO[0m] 4174 Devuelto Size:8 Index:0
+2017.06.08-00:40:22.92 - [[32mASIG[0m] 4388 Asignado Size:2 Delay:28
+2017.06.08-00:40:26.89 - [[32mASIG[0m] 4411 Asignado Size:1 Delay:36
+2017.06.08-00:40:28.96 - [[34mDEVO[0m] 4232 Devuelto Size:4 Index:6
+2017.06.08-00:40:31.87 - [[32mASIG[0m] 4433 Asignado Size:4 Delay:30
+2017.06.08-00:40:35.97 - [[34mDEVO[0m] 4369 Devuelto Size:4 Index:1
+2017.06.08-00:40:36.87 - [[32mASIG[0m] 4468 Asignado Size:7 Delay:28
+2017.06.08-00:40:37.91 - [[34mDEVO[0m] 4370 Devuelto Size:7 Index:3
+2017.06.08-00:40:40.82 - [[33mWARN[0m] 4489 No entró a memoria.
+2017.06.08-00:40:41.96 - [[34mDEVO[0m] 4287 Devuelto Size:1 Index:1
+2017.06.08-00:40:46.88 - [[32mASIG[0m] 4512 Asignado Size:3 Delay:28
+2017.06.08-00:40:49.89 - [[32mASIG[0m] 4533 Asignado Size:9 Delay:45
+2017.06.08-00:40:49.93 - [[34mDEVO[0m] 4347 Devuelto Size:1 Index:0
+2017.06.08-00:40:50.97 - [[34mDEVO[0m] 4388 Devuelto Size:2 Index:2
+2017.06.08-00:40:54.95 - [[34mDEVO[0m] 4288 Devuelto Size:1 Index:4
+2017.06.08-00:40:55.85 - [[32mASIG[0m] 4558 Asignado Size:1 Delay:57
+2017.06.08-00:41:00.86 - [[32mASIG[0m] 4585 Asignado Size:3 Delay:30
+2017.06.08-00:41:01.92 - [[34mDEVO[0m] 4433 Devuelto Size:4 Index:5
+2017.06.08-00:41:02.94 - [[34mDEVO[0m] 4411 Devuelto Size:1 Index:3
+2017.06.08-00:41:04.85 - [[32mASIG[0m] 4587 Asignado Size:5 Delay:51
+2017.06.08-00:41:04.90 - [[34mDEVO[0m] 4301 Devuelto Size:5 Index:2
+2017.06.08-00:41:04.94 - [[34mDEVO[0m] 4468 Devuelto Size:7 Index:0
+2017.06.08-00:41:08.89 - [[32mASIG[0m] 4620 Asignado Size:2 Delay:30
+2017.06.08-00:41:12.88 - [[32mASIG[0m] 4648 Asignado Size:8 Delay:47
+2017.06.08-00:41:14.97 - [[34mDEVO[0m] 4512 Devuelto Size:3 Index:1
+2017.06.08-00:41:18.83 - [[33mWARN[0m] 4661 No entró a memoria.
+2017.06.08-00:41:21.89 - [[32mASIG[0m] 4670 Asignado Size:1 Delay:38
+2017.06.08-00:41:26.86 - [[32mASIG[0m] 4680 Asignado Size:4 Delay:59
+2017.06.08-00:41:30.82 - [[33mWARN[0m] 4693 No entró a memoria.
+2017.06.08-00:41:30.93 - [[34mDEVO[0m] 4585 Devuelto Size:3 Index:0
+2017.06.08-00:41:34.93 - [[32mASIG[0m] 4697 Asignado Size:9 Delay:31
+2017.06.08-00:41:34.98 - [[34mDEVO[0m] 4533 Devuelto Size:9 Index:4
+2017.06.08-00:41:37.83 - [[33mWARN[0m] 4720 No entró a memoria.
+2017.06.08-00:41:38.96 - [[34mDEVO[0m] 4620 Devuelto Size:2 Index:1
+2017.06.08-00:41:40.88 - [[32mASIG[0m] 4728 Asignado Size:5 Delay:21
+2017.06.08-00:41:43.90 - [[32mASIG[0m] 4729 Asignado Size:9 Delay:57
+2017.06.08-00:41:46.90 - [[32mASIG[0m] 4741 Asignado Size:2 Delay:56
+2017.06.08-00:41:49.87 - [[32mASIG[0m] 4743 Asignado Size:3 Delay:33
+2017.06.08-00:41:52.92 - [[34mDEVO[0m] 4558 Devuelto Size:1 Index:4
+2017.06.08-00:41:55.82 - [[33mWARN[0m] 4765 No entró a memoria.
+2017.06.08-00:41:55.96 - [[34mDEVO[0m] 4587 Devuelto Size:5 Index:6
+2017.06.08-00:41:59.92 - [[34mDEVO[0m] 4648 Devuelto Size:8 Index:3
+2017.06.08-00:41:59.96 - [[34mDEVO[0m] 4670 Devuelto Size:1 Index:6
+2017.06.08-00:42:01.83 - [[33mWARN[0m] 4777 No entró a memoria.
+2017.06.08-00:42:01.98 - [[34mDEVO[0m] 4728 Devuelto Size:5 Index:1
+2017.06.08-00:42:04.82 - [[33mWARN[0m] 4778 No entró a memoria.
+2017.06.08-00:42:05.01 - [[34mDEVO[0m] 4697 Devuelto Size:9 Index:0
+2017.06.08-00:42:08.91 - [[32mASIG[0m] 4788 Asignado Size:8 Delay:51
+2017.06.08-00:42:11.91 - [[32mASIG[0m] 4840 Asignado Size:10 Delay:21
+2017.06.08-00:42:15.93 - [[32mASIG[0m] 4876 Asignado Size:3 Delay:48
+2017.06.08-00:42:20.91 - [[32mASIG[0m] 4885 Asignado Size:5 Delay:25
+2017.06.08-00:42:22.95 - [[34mDEVO[0m] 4743 Devuelto Size:3 Index:2
+2017.06.08-00:42:25.94 - [[34mDEVO[0m] 4680 Devuelto Size:4 Index:5
+2017.06.08-00:42:26.82 - [[33mWARN[0m] 4896 No entró a memoria.
+2017.06.08-00:42:29.90 - [[32mASIG[0m] 4909 Asignado Size:5 Delay:50
+2017.06.08-00:42:32.96 - [[34mDEVO[0m] 4840 Devuelto Size:10 Index:0
+2017.06.08-00:42:35.92 - [[32mASIG[0m] 4931 Asignado Size:3 Delay:25
+2017.06.08-00:42:39.85 - [[32mASIG[0m] 4949 Asignado Size:4 Delay:24
+2017.06.08-00:42:40.98 - [[34mDEVO[0m] 4729 Devuelto Size:9 Index:4
+2017.06.08-00:42:42.86 - [[32mASIG[0m] 4964 Asignado Size:4 Delay:53
+2017.06.08-00:42:42.93 - [[34mDEVO[0m] 4741 Devuelto Size:2 Index:2
+2017.06.08-00:42:45.08 - [[34mDEVO[0m] 4885 Devuelto Size:5 Index:6
+2017.06.08-00:42:47.93 - [[32mASIG[0m] 4987 Asignado Size:7 Delay:44
+2017.06.08-00:42:50.07 - [[32mASIG[0m] 4989 Asignado Size:5 Delay:37
+2017.06.08-00:42:55.90 - [[32mASIG[0m] 5013 Asignado Size:2 Delay:41
+2017.06.08-00:42:58.92 - [[32mASIG[0m] 5022 Asignado Size:2 Delay:41
+2017.06.08-00:42:59.97 - [[34mDEVO[0m] 4788 Devuelto Size:8 Index:3
+2017.06.08-00:43:00.02 - [[34mDEVO[0m] 4931 Devuelto Size:3 Index:5
+2017.06.08-00:43:01.89 - [[32mASIG[0m] 5023 Asignado Size:1 Delay:33
+2017.06.08-00:43:03.94 - [[34mDEVO[0m] 4949 Devuelto Size:4 Index:0
+2017.06.08-00:43:03.98 - [[34mDEVO[0m] 4876 Devuelto Size:3 Index:1
+2017.06.08-00:43:05.95 - [[32mASIG[0m] 5032 Asignado Size:7 Delay:33
+2017.06.08-00:43:08.83 - [[33mWARN[0m] 5041 No entró a memoria.
+2017.06.08-00:43:11.83 - [[33mWARN[0m] 5042 No entró a memoria.
+2017.06.08-00:43:15.88 - [[32mASIG[0m] 5066 Asignado Size:1 Delay:31
+2017.06.08-00:43:19.95 - [[34mDEVO[0m] 4909 Devuelto Size:5 Index:2
+2017.06.08-00:43:20.86 - [[32mASIG[0m] 5075 Asignado Size:7 Delay:32
+2017.06.08-00:43:23.83 - [[33mWARN[0m] 5088 No entró a memoria.
+2017.06.08-00:43:27.83 - [[33mWARN[0m] 5097 No entró a memoria.
+2017.06.08-00:43:27.15 - [[34mDEVO[0m] 4989 Devuelto Size:5 Index:6
+2017.06.08-00:43:31.87 - [[32mASIG[0m] 5098 Asignado Size:4 Delay:24
+2017.06.08-00:43:31.98 - [[34mDEVO[0m] 4987 Devuelto Size:7 Index:4
+2017.06.08-00:43:34.93 - [[34mDEVO[0m] 5023 Devuelto Size:1 Index:6
+2017.06.08-00:43:35.90 - [[34mDEVO[0m] 4964 Devuelto Size:4 Index:0
+2017.06.08-00:43:36.96 - [[34mDEVO[0m] 5013 Devuelto Size:2 Index:0
+2017.06.08-00:43:37.90 - [[32mASIG[0m] 5130 Asignado Size:4 Delay:36
+2017.06.08-00:43:38.00 - [[34mDEVO[0m] 5032 Devuelto Size:7 Index:3
+2017.06.08-00:43:39.97 - [[34mDEVO[0m] 5022 Devuelto Size:2 Index:1
+2017.06.08-00:43:42.86 - [[32mASIG[0m] 5138 Asignado Size:1 Delay:54
+2017.06.08-00:43:46.94 - [[34mDEVO[0m] 5066 Devuelto Size:1 Index:3
+2017.06.08-00:43:48.92 - [[32mASIG[0m] 5156 Asignado Size:2 Delay:38
+2017.06.08-00:43:52.91 - [[34mDEVO[0m] 5075 Devuelto Size:7 Index:2
+2017.06.08-00:43:53.86 - [[32mASIG[0m] 5174 Asignado Size:6 Delay:27
+2017.06.08-00:43:55.91 - [[34mDEVO[0m] 5098 Devuelto Size:4 Index:0
+2017.06.08-00:43:56.87 - [[32mASIG[0m] 5189 Asignado Size:3 Delay:57
+2017.06.08-00:44:00.88 - [[32mASIG[0m] 5202 Asignado Size:9 Delay:20
+2017.06.08-00:44:06.87 - [[32mASIG[0m] 5211 Asignado Size:8 Delay:25
+2017.06.08-00:44:12.83 - [[33mWARN[0m] 5222 No entró a memoria.
+2017.06.08-00:44:13.95 - [[34mDEVO[0m] 5130 Devuelto Size:4 Index:5
+2017.06.08-00:44:18.84 - [[33mWARN[0m] 5242 No entró a memoria.
+2017.06.08-00:44:20.95 - [[34mDEVO[0m] 5174 Devuelto Size:6 Index:0
+2017.06.08-00:44:20.98 - [[34mDEVO[0m] 5202 Devuelto Size:9 Index:4
+2017.06.08-00:44:23.91 - [[32mASIG[0m] 5273 Asignado Size:7 Delay:49
+2017.06.08-00:44:26.87 - [[32mASIG[0m] 5285 Asignado Size:7 Delay:32
+2017.06.08-00:44:26.95 - [[34mDEVO[0m] 5156 Devuelto Size:2 Index:1
+2017.06.08-00:44:30.88 - [[32mASIG[0m] 5294 Asignado Size:10 Delay:24
+2017.06.08-00:44:31.95 - [[34mDEVO[0m] 5211 Devuelto Size:8 Index:3
+2017.06.08-00:44:36.93 - [[32mASIG[0m] 5304 Asignado Size:3 Delay:32
+2017.06.08-00:44:36.96 - [[34mDEVO[0m] 5138 Devuelto Size:1 Index:1
+2017.06.08-00:44:41.90 - [[32mASIG[0m] 5318 Asignado Size:5 Delay:37
+2017.06.08-00:44:46.83 - [[33mWARN[0m] 5336 No entró a memoria.
+2017.06.08-00:44:50.87 - [[32mASIG[0m] 5345 Asignado Size:4 Delay:52
+2017.06.08-00:44:53.83 - [[33mWARN[0m] 5351 No entró a memoria.
+2017.06.08-00:44:53.90 - [[34mDEVO[0m] 5189 Devuelto Size:3 Index:0
+2017.06.08-00:44:54.95 - [[34mDEVO[0m] 5294 Devuelto Size:10 Index:4
+2017.06.08-00:44:56.88 - [[32mASIG[0m] 5369 Asignado Size:10 Delay:47
+2017.06.08-00:44:58.95 - [[34mDEVO[0m] 5285 Devuelto Size:7 Index:2
+2017.06.08-00:45:02.87 - [[32mASIG[0m] 5408 Asignado Size:5 Delay:37
+2017.06.08-00:45:05.84 - [[33mWARN[0m] 5426 No entró a memoria.
+2017.06.08-00:45:08.97 - [[34mDEVO[0m] 5304 Devuelto Size:3 Index:1
+2017.06.08-00:45:11.90 - [[32mASIG[0m] 5438 Asignado Size:6 Delay:24
+2017.06.08-00:45:12.95 - [[34mDEVO[0m] 5273 Devuelto Size:7 Index:0
+2017.06.08-00:45:14.88 - [[32mASIG[0m] 5448 Asignado Size:5 Delay:26
+2017.06.08-00:45:18.93 - [[34mDEVO[0m] 5318 Devuelto Size:5 Index:6
+2017.06.08-00:45:19.86 - [[32mASIG[0m] 5457 Asignado Size:4 Delay:41
+2017.06.08-00:45:24.87 - [[32mASIG[0m] 5466 Asignado Size:4 Delay:41
+2017.06.08-00:45:29.84 - [[33mWARN[0m] 5468 No entró a memoria.
+2017.06.08-00:45:32.90 - [[32mASIG[0m] 5475 Asignado Size:5 Delay:45
+2017.06.08-00:45:35.95 - [[34mDEVO[0m] 5438 Devuelto Size:6 Index:3
+2017.06.08-00:45:38.87 - [[32mASIG[0m] 5485 Asignado Size:4 Delay:28
+2017.06.08-00:45:39.92 - [[34mDEVO[0m] 5408 Devuelto Size:5 Index:2
+2017.06.08-00:45:40.96 - [[34mDEVO[0m] 5448 Devuelto Size:5 Index:1
+2017.06.08-00:45:41.91 - [[32mASIG[0m] 5494 Asignado Size:5 Delay:47
+2017.06.08-00:45:42.94 - [[34mDEVO[0m] 5345 Devuelto Size:4 Index:5
+2017.06.08-00:45:43.91 - [[34mDEVO[0m] 5369 Devuelto Size:10 Index:4
+2017.06.08-00:45:44.88 - [[32mASIG[0m] 5504 Asignado Size:9 Delay:54
+2017.06.08-00:45:47.84 - [[33mWARN[0m] 5512 No entró a memoria.
+2017.06.08-00:45:51.87 - [[32mASIG[0m] 5530 Asignado Size:1 Delay:49
+2017.06.08-00:45:57.89 - [[32mASIG[0m] 5542 Asignado Size:5 Delay:58
+2017.06.08-00:46:00.87 - [[32mASIG[0m] 5553 Asignado Size:3 Delay:32
+2017.06.08-00:46:00.90 - [[34mDEVO[0m] 5457 Devuelto Size:4 Index:6
+2017.06.08-00:46:05.87 - [[32mASIG[0m] 5571 Asignado Size:3 Delay:33
+2017.06.08-00:46:05.92 - [[34mDEVO[0m] 5466 Devuelto Size:4 Index:0
+2017.06.08-00:46:06.93 - [[34mDEVO[0m] 5485 Devuelto Size:4 Index:3
+2017.06.08-00:46:08.88 - [[32mASIG[0m] 5599 Asignado Size:6 Delay:25
+2017.06.08-00:46:13.84 - [[33mWARN[0m] 5609 No entró a memoria.
+2017.06.08-00:46:17.94 - [[34mDEVO[0m] 5475 Devuelto Size:5 Index:0
+2017.06.08-00:46:18.87 - [[32mASIG[0m] 5618 Asignado Size:9 Delay:22
+2017.06.08-00:46:24.91 - [[32mASIG[0m] 5627 Asignado Size:5 Delay:33
+2017.06.08-00:46:27.84 - [[33mWARN[0m] 5638 No entró a memoria.
+2017.06.08-00:46:28.95 - [[34mDEVO[0m] 5494 Devuelto Size:5 Index:1
+2017.06.08-00:46:31.84 - [[33mWARN[0m] 5656 No entró a memoria.
+2017.06.08-00:46:32.98 - [[34mDEVO[0m] 5553 Devuelto Size:3 Index:3
+2017.06.08-00:46:33.96 - [[34mDEVO[0m] 5599 Devuelto Size:6 Index:6
+2017.06.08-00:46:37.84 - [[33mWARN[0m] 5667 No entró a memoria.
+2017.06.08-00:46:38.94 - [[34mDEVO[0m] 5571 Devuelto Size:3 Index:5
+2017.06.08-00:46:38.98 - [[34mDEVO[0m] 5504 Devuelto Size:9 Index:4
+2017.06.08-00:46:40.93 - [[32mASIG[0m] 5670 Asignado Size:4 Delay:31
+2017.06.08-00:46:40.97 - [[34mDEVO[0m] 5618 Devuelto Size:9 Index:0
+2017.06.08-00:46:40.00 - [[34mDEVO[0m] 5530 Devuelto Size:1 Index:0
+2017.06.08-00:46:46.88 - [[32mASIG[0m] 5706 Asignado Size:2 Delay:37
+2017.06.08-00:46:50.87 - [[32mASIG[0m] 5708 Asignado Size:6 Delay:56
+2017.06.08-00:46:53.93 - [[32mASIG[0m] 5721 Asignado Size:8 Delay:59
+2017.06.08-00:46:55.97 - [[34mDEVO[0m] 5542 Devuelto Size:5 Index:2
+2017.06.08-00:46:57.97 - [[34mDEVO[0m] 5627 Devuelto Size:5 Index:3
+2017.06.08-00:46:58.93 - [[32mASIG[0m] 5749 Asignado Size:3 Delay:59
+2017.06.08-00:47:01.88 - [[32mASIG[0m] 5758 Asignado Size:2 Delay:47
+2017.06.08-00:47:07.90 - [[32mASIG[0m] 5781 Asignado Size:7 Delay:39
+2017.06.08-00:47:11.03 - [[34mDEVO[0m] 5670 Devuelto Size:4 Index:5
+2017.06.08-00:47:12.92 - [[32mASIG[0m] 5795 Asignado Size:6 Delay:58
+2017.06.08-00:47:17.95 - [[32mASIG[0m] 5812 Asignado Size:5 Delay:45
+2017.06.08-00:47:22.85 - [[33mWARN[0m] 5823 No entró a memoria.
+2017.06.08-00:47:23.93 - [[34mDEVO[0m] 5706 Devuelto Size:2 Index:2
+2017.06.08-00:47:27.85 - [[33mWARN[0m] 5833 No entró a memoria.
+2017.06.08-00:47:32.93 - [[32mASIG[0m] 5844 Asignado Size:4 Delay:47
+2017.06.08-00:47:35.89 - [[32mASIG[0m] 5845 Asignado Size:3 Delay:45
+2017.06.08-00:47:40.91 - [[32mASIG[0m] 5859 Asignado Size:1 Delay:31
+2017.06.08-00:47:46.85 - [[33mWARN[0m] 5880 No entró a memoria.
+2017.06.08-00:47:46.97 - [[34mDEVO[0m] 5708 Devuelto Size:6 Index:6
+2017.06.08-00:47:46.02 - [[34mDEVO[0m] 5781 Devuelto Size:7 Index:3
+2017.06.08-00:47:48.93 - [[34mDEVO[0m] 5758 Devuelto Size:2 Index:0
+2017.06.08-00:47:52.93 - [[32mASIG[0m] 5897 Asignado Size:5 Delay:46
+2017.06.08-00:47:52.98 - [[34mDEVO[0m] 5721 Devuelto Size:8 Index:0
+2017.06.08-00:47:56.94 - [[32mASIG[0m] 5903 Asignado Size:1 Delay:27
+2017.06.08-00:47:57.00 - [[34mDEVO[0m] 5749 Devuelto Size:3 Index:1
+2017.06.08-00:48:00.93 - [[32mASIG[0m] 5912 Asignado Size:1 Delay:38
+2017.06.08-00:48:02.01 - [[34mDEVO[0m] 5812 Devuelto Size:5 Index:2
+2017.06.08-00:48:06.87 - [[32mASIG[0m] 5927 Asignado Size:9 Delay:32
+2017.06.08-00:48:10.01 - [[34mDEVO[0m] 5795 Devuelto Size:6 Index:4
+2017.06.08-00:48:11.03 - [[34mDEVO[0m] 5859 Devuelto Size:1 Index:3
+2017.06.08-00:48:12.93 - [[32mASIG[0m] 5957 Asignado Size:1 Delay:44
+2017.06.08-00:48:18.95 - [[32mASIG[0m] 5966 Asignado Size:3 Delay:21
+2017.06.08-00:48:19.03 - [[34mDEVO[0m] 5844 Devuelto Size:4 Index:4
+2017.06.08-00:48:20.99 - [[34mDEVO[0m] 5845 Devuelto Size:3 Index:5
+2017.06.08-00:48:22.87 - [[32mASIG[0m] 5976 Asignado Size:1 Delay:46
+2017.06.08-00:48:23.00 - [[34mDEVO[0m] 5903 Devuelto Size:1 Index:5
+2017.06.08-00:48:28.92 - [[32mASIG[0m] 5985 Asignado Size:10 Delay:50
+2017.06.08-00:48:32.92 - [[32mASIG[0m] 5994 Asignado Size:1 Delay:44
+2017.06.08-00:48:36.89 - [[32mASIG[0m] 5998 Asignado Size:3 Delay:38
+2017.06.08-00:48:38.93 - [[34mDEVO[0m] 5927 Devuelto Size:9 Index:0
+2017.06.08-00:48:38.98 - [[34mDEVO[0m] 5912 Devuelto Size:1 Index:6
+2017.06.08-00:48:38.02 - [[34mDEVO[0m] 5897 Devuelto Size:5 Index:6
+2017.06.08-00:48:39.00 - [[32mASIG[0m] 6007 Asignado Size:2 Delay:20
+2017.06.08-00:48:39.04 - [[34mDEVO[0m] 5966 Devuelto Size:3 Index:1
+2017.06.08-00:48:43.93 - [[32mASIG[0m] 6016 Asignado Size:6 Delay:34
+2017.06.08-00:48:49.94 - [[32mASIG[0m] 6033 Asignado Size:1 Delay:51
+2017.06.08-00:48:52.95 - [[32mASIG[0m] 6035 Asignado Size:1 Delay:59
+2017.06.08-00:48:56.04 - [[34mDEVO[0m] 5957 Devuelto Size:1 Index:0
+2017.06.08-00:48:58.94 - [[32mASIG[0m] 6064 Asignado Size:8 Delay:40
+2017.06.08-00:48:59.08 - [[34mDEVO[0m] 6007 Devuelto Size:2 Index:6
+2017.06.08-00:49:02.93 - [[32mASIG[0m] 6067 Asignado Size:7 Delay:43
+2017.06.08-00:49:07.92 - [[32mASIG[0m] 6076 Asignado Size:6 Delay:34
+2017.06.08-00:49:08.98 - [[34mDEVO[0m] 5976 Devuelto Size:1 Index:1
+2017.06.08-00:49:10.92 - [[32mASIG[0m] 6085 Asignado Size:4 Delay:38
+2017.06.08-00:49:14.95 - [[34mDEVO[0m] 5998 Devuelto Size:3 Index:5
+2017.06.08-00:49:15.85 - [[33mWARN[0m] 6094 No entró a memoria.
+2017.06.08-00:49:16.99 - [[34mDEVO[0m] 5994 Devuelto Size:1 Index:1
+2017.06.08-00:49:17.98 - [[34mDEVO[0m] 6016 Devuelto Size:6 Index:2
+2017.06.08-00:49:18.89 - [[32mASIG[0m] 6103 Asignado Size:5 Delay:22
+2017.06.08-00:49:18.95 - [[34mDEVO[0m] 5985 Devuelto Size:10 Index:4
+2017.06.08-00:49:22.89 - [[32mASIG[0m] 6104 Asignado Size:8 Delay:40
+2017.06.08-00:49:25.89 - [[32mASIG[0m] 6113 Asignado Size:3 Delay:52
+2017.06.08-00:49:30.85 - [[33mWARN[0m] 6122 No entró a memoria.
+2017.06.08-00:49:33.85 - [[33mWARN[0m] 6131 No entró a memoria.
+2017.06.08-00:49:36.85 - [[33mWARN[0m] 6134 No entró a memoria.
+2017.06.08-00:49:38.99 - [[34mDEVO[0m] 6064 Devuelto Size:8 Index:3
+2017.06.08-00:49:40.85 - [[33mWARN[0m] 6146 No entró a memoria.
+2017.06.08-00:49:40.92 - [[34mDEVO[0m] 6103 Devuelto Size:5 Index:2
+2017.06.08-00:49:40.99 - [[34mDEVO[0m] 6033 Devuelto Size:1 Index:2
+2017.06.08-00:49:41.97 - [[34mDEVO[0m] 6076 Devuelto Size:6 Index:6
+2017.06.08-00:49:44.89 - [[32mASIG[0m] 6155 Asignado Size:1 Delay:38
+2017.06.08-00:49:45.97 - [[34mDEVO[0m] 6067 Devuelto Size:7 Index:0
+2017.06.08-00:49:48.88 - [[32mASIG[0m] 6176 Asignado Size:3 Delay:57
+2017.06.08-00:49:48.95 - [[34mDEVO[0m] 6085 Devuelto Size:4 Index:1
+2017.06.08-00:49:51.02 - [[34mDEVO[0m] 6035 Devuelto Size:1 Index:5
+2017.06.08-00:49:52.91 - [[32mASIG[0m] 6178 Asignado Size:6 Delay:21
+2017.06.08-00:49:56.91 - [[32mASIG[0m] 6203 Asignado Size:1 Delay:23
+2017.06.08-00:50:02.85 - [[33mWARN[0m] 6246 No entró a memoria.
+2017.06.08-00:50:02.95 - [[34mDEVO[0m] 6104 Devuelto Size:8 Index:4
+2017.06.08-00:50:08.89 - [[32mASIG[0m] 6255 Asignado Size:1 Delay:57
+2017.06.08-00:50:13.89 - [[32mASIG[0m] 6264 Asignado Size:3 Delay:42
+2017.06.08-00:50:13.95 - [[34mDEVO[0m] 6178 Devuelto Size:6 Index:6
+2017.06.08-00:50:17.95 - [[34mDEVO[0m] 6113 Devuelto Size:3 Index:0
+2017.06.08-00:50:19.89 - [[32mASIG[0m] 6275 Asignado Size:6 Delay:44
+2017.06.08-00:50:19.95 - [[34mDEVO[0m] 6203 Devuelto Size:1 Index:5
+2017.06.08-00:50:22.91 - [[32mASIG[0m] 6285 Asignado Size:7 Delay:36
+2017.06.08-00:50:22.95 - [[34mDEVO[0m] 6155 Devuelto Size:1 Index:1
+2017.06.08-00:50:26.89 - [[32mASIG[0m] 6301 Asignado Size:10 Delay:40
+2017.06.08-00:50:30.88 - [[32mASIG[0m] 6313 Asignado Size:7 Delay:60
+2017.06.08-00:50:34.91 - [[32mASIG[0m] 6314 Asignado Size:1 Delay:40
+2017.06.08-00:50:38.91 - [[32mASIG[0m] 6324 Asignado Size:2 Delay:52
+2017.06.08-00:50:43.91 - [[32mASIG[0m] 6345 Asignado Size:1 Delay:40
+2017.06.08-00:50:45.92 - [[34mDEVO[0m] 6176 Devuelto Size:3 Index:5
+2017.06.08-00:50:47.00 - [[32mASIG[0m] 6359 Asignado Size:4 Delay:23
+2017.06.08-00:50:52.86 - [[33mWARN[0m] 6375 No entró a memoria.
+2017.06.08-00:50:55.98 - [[34mDEVO[0m] 6264 Devuelto Size:3 Index:1
+2017.06.08-00:50:57.92 - [[32mASIG[0m] 6391 Asignado Size:7 Delay:34
+2017.06.08-00:50:58.96 - [[34mDEVO[0m] 6285 Devuelto Size:7 Index:2
+2017.06.08-00:51:01.86 - [[33mWARN[0m] 6400 No entró a memoria.
+2017.06.08-00:51:03.94 - [[34mDEVO[0m] 6275 Devuelto Size:6 Index:6
+2017.06.08-00:51:05.94 - [[34mDEVO[0m] 6255 Devuelto Size:1 Index:1
+2017.06.08-00:51:06.96 - [[32mASIG[0m] 6409 Asignado Size:2 Delay:21
+2017.06.08-00:51:06.01 - [[34mDEVO[0m] 6301 Devuelto Size:10 Index:0
+2017.06.08-00:51:10.90 - [[32mASIG[0m] 6420 Asignado Size:7 Delay:39
+2017.06.08-00:51:10.06 - [[34mDEVO[0m] 6359 Devuelto Size:4 Index:5
+2017.06.08-00:51:14.01 - [[34mDEVO[0m] 6314 Devuelto Size:1 Index:1
+2017.06.08-00:51:16.91 - [[32mASIG[0m] 6429 Asignado Size:1 Delay:21
+2017.06.08-00:51:22.92 - [[32mASIG[0m] 6438 Asignado Size:10 Delay:28
+2017.06.08-00:51:23.97 - [[34mDEVO[0m] 6345 Devuelto Size:1 Index:3
+2017.06.08-00:51:26.90 - [[32mASIG[0m] 6448 Asignado Size:1 Delay:37
+2017.06.08-00:51:27.00 - [[34mDEVO[0m] 6409 Devuelto Size:2 Index:1
+2017.06.08-00:51:29.90 - [[32mASIG[0m] 6449 Asignado Size:6 Delay:35
+2017.06.08-00:51:30.93 - [[34mDEVO[0m] 6313 Devuelto Size:7 Index:3
+2017.06.08-00:51:30.97 - [[34mDEVO[0m] 6324 Devuelto Size:2 Index:4
+2017.06.08-00:51:31.02 - [[34mDEVO[0m] 6391 Devuelto Size:7 Index:4
+2017.06.08-00:51:35.91 - [[32mASIG[0m] 6461 Asignado Size:5 Delay:24
+2017.06.08-00:51:37.96 - [[34mDEVO[0m] 6429 Devuelto Size:1 Index:4
+2017.06.08-00:51:39.89 - [[32mASIG[0m] 6471 Asignado Size:1 Delay:27
+2017.06.08-00:51:43.92 - [[32mASIG[0m] 6480 Asignado Size:2 Delay:36
+2017.06.08-00:51:47.91 - [[32mASIG[0m] 6491 Asignado Size:10 Delay:26
+2017.06.08-00:51:49.97 - [[34mDEVO[0m] 6420 Devuelto Size:7 Index:2
+2017.06.08-00:51:50.03 - [[34mDEVO[0m] 6438 Devuelto Size:10 Index:0
+2017.06.08-00:51:52.94 - [[32mASIG[0m] 6500 Asignado Size:1 Delay:45
+2017.06.08-00:51:55.92 - [[32mASIG[0m] 6506 Asignado Size:1 Delay:46
+2017.06.08-00:51:59.90 - [[32mASIG[0m] 6515 Asignado Size:4 Delay:32
+2017.06.08-00:51:59.95 - [[34mDEVO[0m] 6461 Devuelto Size:5 Index:1
+2017.06.08-00:52:03.89 - [[32mASIG[0m] 6525 Asignado Size:8 Delay:21
+2017.06.08-00:52:03.94 - [[34mDEVO[0m] 6448 Devuelto Size:1 Index:3
+2017.06.08-00:52:04.96 - [[34mDEVO[0m] 6449 Devuelto Size:6 Index:6
+2017.06.08-00:52:06.93 - [[34mDEVO[0m] 6471 Devuelto Size:1 Index:5
+2017.06.08-00:52:07.89 - [[32mASIG[0m] 6535 Asignado Size:2 Delay:51
+2017.06.08-00:52:10.89 - [[32mASIG[0m] 6553 Asignado Size:3 Delay:43
+2017.06.08-00:52:13.98 - [[34mDEVO[0m] 6491 Devuelto Size:10 Index:4
+2017.06.08-00:52:14.89 - [[32mASIG[0m] 6566 Asignado Size:2 Delay:40
+2017.06.08-00:52:18.90 - [[32mASIG[0m] 6575 Asignado Size:9 Delay:45
+2017.06.08-00:52:19.00 - [[34mDEVO[0m] 6480 Devuelto Size:2 Index:5
+2017.06.08-00:52:22.91 - [[32mASIG[0m] 6584 Asignado Size:7 Delay:21
+2017.06.08-00:52:24.93 - [[34mDEVO[0m] 6525 Devuelto Size:8 Index:0
+2017.06.08-00:52:26.93 - [[32mASIG[0m] 6593 Asignado Size:7 Delay:27
+2017.06.08-00:52:29.89 - [[32mASIG[0m] 6625 Asignado Size:6 Delay:50
+2017.06.08-00:52:31.96 - [[34mDEVO[0m] 6515 Devuelto Size:4 Index:2
+2017.06.08-00:52:33.89 - [[32mASIG[0m] 6638 Asignado Size:3 Delay:23
+2017.06.08-00:52:37.87 - [[33mWARN[0m] 6647 No entró a memoria.
+2017.06.08-00:52:37.98 - [[34mDEVO[0m] 6500 Devuelto Size:1 Index:5
+2017.06.08-00:52:41.96 - [[34mDEVO[0m] 6506 Devuelto Size:1 Index:2
+2017.06.08-00:52:42.89 - [[32mASIG[0m] 6658 Asignado Size:5 Delay:47
+2017.06.08-00:52:43.95 - [[34mDEVO[0m] 6584 Devuelto Size:7 Index:3
+2017.06.08-00:52:46.86 - [[33mWARN[0m] 6664 No entró a memoria.
+2017.06.08-00:52:49.90 - [[32mASIG[0m] 6673 Asignado Size:1 Delay:52
+2017.06.08-00:52:52.91 - [[32mASIG[0m] 6682 Asignado Size:2 Delay:32
+2017.06.08-00:52:53.94 - [[34mDEVO[0m] 6553 Devuelto Size:3 Index:1
+2017.06.08-00:52:53.98 - [[34mDEVO[0m] 6593 Devuelto Size:7 Index:0
+2017.06.08-00:52:54.93 - [[34mDEVO[0m] 6566 Devuelto Size:2 Index:1
+2017.06.08-00:52:55.90 - [[32mASIG[0m] 6686 Asignado Size:7 Delay:26
+2017.06.08-00:52:56.96 - [[34mDEVO[0m] 6638 Devuelto Size:3 Index:5
+2017.06.08-00:52:58.98 - [[34mDEVO[0m] 6535 Devuelto Size:2 Index:0
+2017.06.08-00:53:00.95 - [[32mASIG[0m] 6723 Asignado Size:5 Delay:54
+2017.06.08-00:53:03.96 - [[34mDEVO[0m] 6575 Devuelto Size:9 Index:4
+2017.06.08-00:53:04.89 - [[32mASIG[0m] 6736 Asignado Size:5 Delay:50
+2017.06.08-00:53:08.92 - [[32mASIG[0m] 6746 Asignado Size:6 Delay:23
+2017.06.08-00:53:11.87 - [[33mWARN[0m] 6752 No entró a memoria.
+2017.06.08-00:53:14.89 - [[32mASIG[0m] 6760 Asignado Size:2 Delay:45
+2017.06.08-00:53:17.86 - [[33mWARN[0m] 6769 No entró a memoria.
+2017.06.08-00:53:19.95 - [[34mDEVO[0m] 6625 Devuelto Size:6 Index:6
+2017.06.08-00:53:20.87 - [[33mWARN[0m] 6776 No entró a memoria.
+2017.06.08-00:53:21.94 - [[34mDEVO[0m] 6686 Devuelto Size:7 Index:0
+2017.06.08-00:53:23.86 - [[33mWARN[0m] 6784 No entró a memoria.
+2017.06.08-00:53:24.96 - [[34mDEVO[0m] 6682 Devuelto Size:2 Index:2
+2017.06.08-00:53:28.90 - [[32mASIG[0m] 6797 Asignado Size:4 Delay:59
+2017.06.08-00:53:29.93 - [[34mDEVO[0m] 6658 Devuelto Size:5 Index:2
+2017.06.08-00:53:31.96 - [[32mASIG[0m] 6798 Asignado Size:3 Delay:60
+2017.06.08-00:53:31.00 - [[34mDEVO[0m] 6746 Devuelto Size:6 Index:4
+2017.06.08-00:53:37.91 - [[32mASIG[0m] 6870 Asignado Size:2 Delay:36
+2017.06.08-00:53:41.98 - [[32mASIG[0m] 6871 Asignado Size:1 Delay:47
+2017.06.08-00:53:41.04 - [[34mDEVO[0m] 6673 Devuelto Size:1 Index:0
+2017.06.08-00:53:47.91 - [[32mASIG[0m] 6895 Asignado Size:1 Delay:60
+2017.06.08-00:53:50.92 - [[32mASIG[0m] 6897 Asignado Size:6 Delay:59
+2017.06.08-00:53:54.95 - [[34mDEVO[0m] 6736 Devuelto Size:5 Index:3
+2017.06.08-00:53:54.99 - [[34mDEVO[0m] 6723 Devuelto Size:5 Index:1
+2017.06.08-00:53:56.91 - [[32mASIG[0m] 6961 Asignado Size:6 Delay:32
+2017.06.08-00:53:59.09 - [[34mDEVO[0m] 6760 Devuelto Size:2 Index:0
+2017.06.08-00:54:02.92 - [[32mASIG[0m] 7060 Asignado Size:4 Delay:32
+2017.06.08-00:54:08.92 - [[32mASIG[0m] 7069 Asignado Size:9 Delay:20
+2017.06.08-00:54:13.98 - [[32mASIG[0m] 7079 Asignado Size:3 Delay:29
+2017.06.08-00:54:13.03 - [[34mDEVO[0m] 6870 Devuelto Size:2 Index:5
+2017.06.08-00:54:16.02 - [[32mASIG[0m] 7094 Asignado Size:7 Delay:41
+2017.06.08-00:54:20.87 - [[33mWARN[0m] 7105 No entró a memoria.
+2017.06.08-00:54:23.87 - [[33mWARN[0m] 7106 No entró a memoria.
+2017.06.08-00:54:27.92 - [[32mASIG[0m] 7115 Asignado Size:1 Delay:58
+2017.06.08-00:54:27.96 - [[34mDEVO[0m] 6797 Devuelto Size:4 Index:4
+2017.06.08-00:54:28.96 - [[34mDEVO[0m] 6961 Devuelto Size:6 Index:6
+2017.06.08-00:54:28.01 - [[34mDEVO[0m] 7069 Devuelto Size:9 Index:0
+2017.06.08-00:54:28.05 - [[34mDEVO[0m] 6871 Devuelto Size:1 Index:5
+2017.06.08-00:54:31.01 - [[34mDEVO[0m] 6798 Devuelto Size:3 Index:3
+2017.06.08-00:54:32.91 - [[32mASIG[0m] 7127 Asignado Size:7 Delay:54
+2017.06.08-00:54:34.00 - [[34mDEVO[0m] 7060 Devuelto Size:4 Index:1
+2017.06.08-00:54:38.95 - [[32mASIG[0m] 7137 Asignado Size:3 Delay:59
+2017.06.08-00:54:42.91 - [[32mASIG[0m] 7147 Asignado Size:6 Delay:35
+2017.06.08-00:54:42.03 - [[34mDEVO[0m] 7079 Devuelto Size:3 Index:3
+2017.06.08-00:54:46.99 - [[32mASIG[0m] 7160 Asignado Size:3 Delay:54
+2017.06.08-00:54:47.00 - [[34mDEVO[0m] 6895 Devuelto Size:1 Index:5
+2017.06.08-00:54:49.99 - [[34mDEVO[0m] 6897 Devuelto Size:6 Index:4
+2017.06.08-00:54:52.93 - [[32mASIG[0m] 7169 Asignado Size:8 Delay:59
+2017.06.08-00:54:57.08 - [[34mDEVO[0m] 7094 Devuelto Size:7 Index:2
+2017.06.08-00:54:58.93 - [[32mASIG[0m] 7207 Asignado Size:2 Delay:29
+2017.06.08-00:55:02.92 - [[32mASIG[0m] 7216 Asignado Size:3 Delay:37
+2017.06.08-00:55:08.97 - [[32mASIG[0m] 7225 Asignado Size:7 Delay:57
+2017.06.08-00:55:11.88 - [[33mWARN[0m] 7240 No entró a memoria.
+2017.06.08-00:55:17.87 - [[33mWARN[0m] 7251 No entró a memoria.
+2017.06.08-00:55:17.98 - [[34mDEVO[0m] 7147 Devuelto Size:6 Index:6
+2017.06.08-00:55:21.87 - [[33mWARN[0m] 7260 No entró a memoria.
+2017.06.08-00:55:25.96 - [[34mDEVO[0m] 7115 Devuelto Size:1 Index:0
+2017.06.08-00:55:26.96 - [[34mDEVO[0m] 7127 Devuelto Size:7 Index:0
+2017.06.08-00:55:27.87 - [[33mWARN[0m] 7268 No entró a memoria.
+2017.06.08-00:55:27.99 - [[34mDEVO[0m] 7207 Devuelto Size:2 Index:0
+2017.06.08-00:55:31.97 - [[32mASIG[0m] 7277 Asignado Size:10 Delay:31
+2017.06.08-00:55:35.90 - [[32mASIG[0m] 7302 Asignado Size:3 Delay:39
+2017.06.08-00:55:37.99 - [[34mDEVO[0m] 7137 Devuelto Size:3 Index:5
+2017.06.08-00:55:39.04 - [[34mDEVO[0m] 7216 Devuelto Size:3 Index:1
+2017.06.08-00:55:40.88 - [[33mWARN[0m] 7311 No entró a memoria.
+2017.06.08-00:55:40.07 - [[34mDEVO[0m] 7160 Devuelto Size:3 Index:4
+2017.06.08-00:55:43.91 - [[32mASIG[0m] 7320 Asignado Size:3 Delay:52
+2017.06.08-00:55:47.93 - [[32mASIG[0m] 7333 Asignado Size:8 Delay:39
+2017.06.08-00:55:51.87 - [[33mWARN[0m] 7363 No entró a memoria.
+2017.06.08-00:55:51.02 - [[34mDEVO[0m] 7169 Devuelto Size:8 Index:3
+2017.06.08-00:55:56.97 - [[32mASIG[0m] 7392 Asignado Size:3 Delay:56
+2017.06.08-00:56:01.88 - [[33mWARN[0m] 7417 No entró a memoria.
+2017.06.08-00:56:02.02 - [[34mDEVO[0m] 7277 Devuelto Size:10 Index:0
+2017.06.08-00:56:05.05 - [[34mDEVO[0m] 7225 Devuelto Size:7 Index:2
+2017.06.08-00:56:07.93 - [[32mASIG[0m] 7426 Asignado Size:7 Delay:22
+2017.06.08-00:56:10.96 - [[32mASIG[0m] 7435 Asignado Size:9 Delay:54
+2017.06.08-00:56:14.97 - [[34mDEVO[0m] 7302 Devuelto Size:3 Index:6
+2017.06.08-00:56:15.94 - [[32mASIG[0m] 7444 Asignado Size:2 Delay:39
+2017.06.08-00:56:18.88 - [[33mWARN[0m] 7453 No entró a memoria.
+2017.06.08-00:56:22.95 - [[32mASIG[0m] 7454 Asignado Size:8 Delay:41
+2017.06.08-00:56:26.88 - [[33mWARN[0m] 7465 No entró a memoria.
+2017.06.08-00:56:26.02 - [[34mDEVO[0m] 7333 Devuelto Size:8 Index:4
+2017.06.08-00:56:29.01 - [[34mDEVO[0m] 7426 Devuelto Size:7 Index:2
+2017.06.08-00:56:30.88 - [[33mWARN[0m] 7474 No entró a memoria.
+2017.06.08-00:56:35.95 - [[34mDEVO[0m] 7320 Devuelto Size:3 Index:6
+2017.06.08-00:56:36.95 - [[32mASIG[0m] 7486 Asignado Size:7 Delay:50
+2017.06.08-00:56:42.88 - [[33mWARN[0m] 7506 No entró a memoria.
+2017.06.08-00:56:46.92 - [[32mASIG[0m] 7520 Asignado Size:6 Delay:28
+2017.06.08-00:56:52.93 - [[32mASIG[0m] 7530 Asignado Size:8 Delay:29
+2017.06.08-00:56:52.02 - [[34mDEVO[0m] 7392 Devuelto Size:3 Index:5
+2017.06.08-00:56:54.01 - [[34mDEVO[0m] 7444 Devuelto Size:2 Index:4
+2017.06.08-00:56:58.88 - [[33mWARN[0m] 7552 No entró a memoria.
+2017.06.08-00:57:03.02 - [[34mDEVO[0m] 7454 Devuelto Size:8 Index:3
+2017.06.08-00:57:04.91 - [[32mASIG[0m] 7569 Asignado Size:7 Delay:47
+2017.06.08-00:57:04.00 - [[34mDEVO[0m] 7435 Devuelto Size:9 Index:0
+2017.06.08-00:57:07.91 - [[32mASIG[0m] 7570 Asignado Size:1 Delay:34
+2017.06.08-00:57:11.04 - [[32mASIG[0m] 7579 Asignado Size:4 Delay:36
+2017.06.08-00:57:14.98 - [[34mDEVO[0m] 7520 Devuelto Size:6 Index:6
+2017.06.08-00:57:17.93 - [[32mASIG[0m] 7588 Asignado Size:3 Delay:48
+2017.06.08-00:57:21.98 - [[34mDEVO[0m] 7530 Devuelto Size:8 Index:4
+2017.06.08-00:57:23.93 - [[32mASIG[0m] 7596 Asignado Size:4 Delay:44
+2017.06.08-00:57:26.02 - [[34mDEVO[0m] 7486 Devuelto Size:7 Index:2
+2017.06.08-00:57:27.96 - [[32mASIG[0m] 7620 Asignado Size:1 Delay:43
+2017.06.08-00:57:30.98 - [[32mASIG[0m] 7636 Asignado Size:9 Delay:41
+2017.06.08-00:57:34.92 - [[32mASIG[0m] 7650 Asignado Size:6 Delay:34
+2017.06.08-00:57:40.94 - [[32mASIG[0m] 7660 Asignado Size:3 Delay:25
+2017.06.08-00:57:41.01 - [[34mDEVO[0m] 7570 Devuelto Size:1 Index:3
+2017.06.08-00:57:45.95 - [[32mASIG[0m] 7671 Asignado Size:2 Delay:26
+2017.06.08-00:57:47.12 - [[34mDEVO[0m] 7579 Devuelto Size:4 Index:5
+2017.06.08-00:57:49.95 - [[32mASIG[0m] 7680 Asignado Size:7 Delay:31
+2017.06.08-00:57:51.03 - [[34mDEVO[0m] 7569 Devuelto Size:7 Index:3
+2017.06.08-00:57:55.94 - [[32mASIG[0m] 7692 Asignado Size:2 Delay:48
+2017.06.08-00:58:01.91 - [[32mASIG[0m] 7710 Asignado Size:1 Delay:59
+2017.06.08-00:58:05.88 - [[33mWARN[0m] 7720 No entró a memoria.
+2017.06.08-00:58:05.98 - [[34mDEVO[0m] 7588 Devuelto Size:3 Index:1
+2017.06.08-00:58:05.03 - [[34mDEVO[0m] 7660 Devuelto Size:3 Index:4
+2017.06.08-00:58:07.98 - [[34mDEVO[0m] 7596 Devuelto Size:4 Index:6
+2017.06.08-00:58:08.93 - [[32mASIG[0m] 7722 Asignado Size:7 Delay:41
+2017.06.08-00:58:08.97 - [[34mDEVO[0m] 7650 Devuelto Size:6 Index:2
+2017.06.08-00:58:10.03 - [[34mDEVO[0m] 7620 Devuelto Size:1 Index:1
+2017.06.08-00:58:11.01 - [[34mDEVO[0m] 7671 Devuelto Size:2 Index:6
+2017.06.08-00:58:11.05 - [[34mDEVO[0m] 7636 Devuelto Size:9 Index:0
+2017.06.08-00:58:12.92 - [[32mASIG[0m] 7731 Asignado Size:6 Delay:23
+2017.06.08-00:58:18.94 - [[32mASIG[0m] 7757 Asignado Size:3 Delay:42
+2017.06.08-00:58:20.99 - [[34mDEVO[0m] 7680 Devuelto Size:7 Index:4
+2017.06.08-00:58:23.93 - [[32mASIG[0m] 7766 Asignado Size:6 Delay:50
+2017.06.08-00:58:28.89 - [[33mWARN[0m] 7778 No entró a memoria.
+2017.06.08-00:58:31.91 - [[32mASIG[0m] 7790 Asignado Size:8 Delay:60
+2017.06.08-00:58:35.02 - [[34mDEVO[0m] 7731 Devuelto Size:6 Index:6
+2017.06.08-00:58:36.99 - [[32mASIG[0m] 7801 Asignado Size:5 Delay:59
+2017.06.08-00:58:41.95 - [[32mASIG[0m] 7810 Asignado Size:6 Delay:31
+2017.06.08-00:58:43.99 - [[34mDEVO[0m] 7692 Devuelto Size:2 Index:5
+2017.06.08-00:58:45.92 - [[32mASIG[0m] 7820 Asignado Size:7 Delay:28
+2017.06.08-00:58:49.99 - [[34mDEVO[0m] 7722 Devuelto Size:7 Index:3
+2017.06.08-00:58:51.93 - [[32mASIG[0m] 7831 Asignado Size:1 Delay:31
+2017.06.08-00:58:57.92 - [[32mASIG[0m] 7856 Asignado Size:5 Delay:54
+2017.06.08-00:59:00.97 - [[34mDEVO[0m] 7710 Devuelto Size:1 Index:0
+2017.06.08-00:59:00.01 - [[34mDEVO[0m] 7757 Devuelto Size:3 Index:4
+2017.06.08-00:59:01.93 - [[32mASIG[0m] 7880 Asignado Size:4 Delay:50
+2017.06.08-00:59:04.89 - [[33mWARN[0m] 7889 No entró a memoria.
+2017.06.08-00:59:07.00 - [[32mASIG[0m] 7890 Asignado Size:2 Delay:32
+2017.06.08-00:59:12.89 - [[33mWARN[0m] 7899 No entró a memoria.
+2017.06.08-00:59:12.01 - [[34mDEVO[0m] 7810 Devuelto Size:6 Index:6
+2017.06.08-00:59:13.01 - [[34mDEVO[0m] 7820 Devuelto Size:7 Index:4
+2017.06.08-00:59:13.06 - [[34mDEVO[0m] 7766 Devuelto Size:6 Index:2
+2017.06.08-00:59:17.93 - [[32mASIG[0m] 7909 Asignado Size:3 Delay:41
+2017.06.08-00:59:22.94 - [[32mASIG[0m] 7920 Asignado Size:10 Delay:59
+2017.06.08-00:59:22.98 - [[34mDEVO[0m] 7831 Devuelto Size:1 Index:0
+2017.06.08-00:59:26.89 - [[33mWARN[0m] 7944 No entró a memoria.
+2017.06.08-00:59:30.89 - [[33mWARN[0m] 7953 No entró a memoria.
+2017.06.08-00:59:31.99 - [[34mDEVO[0m] 7790 Devuelto Size:8 Index:0
+2017.06.08-00:59:34.93 - [[32mASIG[0m] 7962 Asignado Size:7 Delay:30
+2017.06.08-00:59:35.05 - [[34mDEVO[0m] 7801 Devuelto Size:5 Index:1
+2017.06.08-00:59:39.94 - [[32mASIG[0m] 7971 Asignado Size:8 Delay:43
+2017.06.08-00:59:39.04 - [[34mDEVO[0m] 7890 Devuelto Size:2 Index:3
+2017.06.08-00:59:45.93 - [[32mASIG[0m] 7989 Asignado Size:3 Delay:24
+2017.06.08-00:59:48.89 - [[33mWARN[0m] 7990 No entró a memoria.
+2017.06.08-00:59:51.97 - [[34mDEVO[0m] 7856 Devuelto Size:5 Index:3
+2017.06.08-00:59:51.01 - [[34mDEVO[0m] 7880 Devuelto Size:4 Index:5
+2017.06.08-00:59:53.89 - [[33mWARN[0m] 8013 No entró a memoria.
+2017.06.08-00:59:58.94 - [[32mASIG[0m] 8054 Asignado Size:2 Delay:24
+2017.06.08-00:59:58.99 - [[34mDEVO[0m] 7909 Devuelto Size:3 Index:6
+2017.06.08-01:00:01.93 - [[32mASIG[0m] 8067 Asignado Size:2 Delay:26
+2017.06.08-01:00:04.03 - [[34mDEVO[0m] 7962 Devuelto Size:7 Index:2
+2017.06.08-01:00:06.95 - [[32mASIG[0m] 8076 Asignado Size:1 Delay:30
+2017.06.08-01:00:09.89 - [[33mWARN[0m] 8086 No entró a memoria.
+2017.06.08-01:00:09.98 - [[34mDEVO[0m] 7989 Devuelto Size:3 Index:3
+2017.06.08-01:00:15.92 - [[32mASIG[0m] 8094 Asignado Size:4 Delay:20
+2017.06.08-01:00:19.89 - [[33mWARN[0m] 8103 No entró a memoria.
+2017.06.08-01:00:21.98 - [[34mDEVO[0m] 7920 Devuelto Size:10 Index:4
+2017.06.08-01:00:22.98 - [[34mDEVO[0m] 7971 Devuelto Size:8 Index:0
+2017.06.08-01:00:22.01 - [[34mDEVO[0m] 8054 Devuelto Size:2 Index:0
+2017.06.08-01:00:25.92 - [[32mASIG[0m] 8112 Asignado Size:7 Delay:53
+2017.06.08-01:00:27.98 - [[34mDEVO[0m] 8067 Devuelto Size:2 Index:5
+2017.06.08-01:00:30.93 - [[32mASIG[0m] 8124 Asignado Size:3 Delay:52
+2017.06.08-01:00:35.00 - [[34mDEVO[0m] 8094 Devuelto Size:4 Index:1
+2017.06.08-01:00:36.00 - [[32mASIG[0m] 8135 Asignado Size:3 Delay:36
+2017.06.08-01:00:36.04 - [[34mDEVO[0m] 8076 Devuelto Size:1 Index:5
+2017.06.08-01:00:40.93 - [[32mASIG[0m] 8144 Asignado Size:2 Delay:32
+2017.06.08-01:00:46.94 - [[32mASIG[0m] 8156 Asignado Size:4 Delay:27
+2017.06.08-01:00:51.93 - [[32mASIG[0m] 8167 Asignado Size:2 Delay:59
+2017.06.08-01:00:57.93 - [[32mASIG[0m] 8179 Asignado Size:3 Delay:50
+2017.06.08-01:01:00.94 - [[32mASIG[0m] 8189 Asignado Size:4 Delay:36
+2017.06.08-01:01:04.93 - [[32mASIG[0m] 8190 Asignado Size:5 Delay:32
+2017.06.08-01:01:08.94 - [[32mASIG[0m] 8199 Asignado Size:10 Delay:48
+2017.06.08-01:01:12.94 - [[32mASIG[0m] 8223 Asignado Size:1 Delay:55
+2017.06.08-01:01:12.98 - [[34mDEVO[0m] 8144 Devuelto Size:2 Index:1
+2017.06.08-01:01:12.04 - [[34mDEVO[0m] 8135 Devuelto Size:3 Index:1
+2017.06.08-01:01:13.98 - [[34mDEVO[0m] 8156 Devuelto Size:4 Index:6
+2017.06.08-01:01:15.89 - [[33mWARN[0m] 8235 No entró a memoria.
+2017.06.08-01:01:18.97 - [[34mDEVO[0m] 8112 Devuelto Size:7 Index:2
+2017.06.08-01:01:20.89 - [[33mWARN[0m] 8256 No entró a memoria.
+2017.06.08-01:01:22.15 - [[34mDEVO[0m] 8124 Devuelto Size:3 Index:5
+2017.06.08-01:01:23.90 - [[33mWARN[0m] 8261 No entró a memoria.
+2017.06.08-01:01:28.90 - [[33mWARN[0m] 8270 No entró a memoria.
+2017.06.08-01:01:31.99 - [[32mASIG[0m] 8279 Asignado Size:2 Delay:31
+2017.06.08-01:01:36.97 - [[32mASIG[0m] 8288 Asignado Size:6 Delay:50
+2017.06.08-01:01:36.00 - [[34mDEVO[0m] 8190 Devuelto Size:5 Index:0
+2017.06.08-01:01:36.04 - [[34mDEVO[0m] 8189 Devuelto Size:4 Index:3
+2017.06.08-01:01:39.99 - [[32mASIG[0m] 8291 Asignado Size:9 Delay:49
+2017.06.08-01:01:44.90 - [[33mWARN[0m] 8312 No entró a memoria.
+2017.06.08-01:01:47.98 - [[34mDEVO[0m] 8179 Devuelto Size:3 Index:3
+2017.06.08-01:01:48.99 - [[32mASIG[0m] 8325 Asignado Size:6 Delay:33
+2017.06.08-01:01:50.02 - [[34mDEVO[0m] 8167 Devuelto Size:2 Index:6
+2017.06.08-01:01:51.94 - [[32mASIG[0m] 8334 Asignado Size:6 Delay:48
+2017.06.08-01:01:54.96 - [[32mASIG[0m] 8339 Asignado Size:2 Delay:40
+2017.06.08-01:01:56.99 - [[34mDEVO[0m] 8199 Devuelto Size:10 Index:4
+2017.06.08-01:01:57.96 - [[32mASIG[0m] 8366 Asignado Size:2 Delay:53
+2017.06.08-01:02:01.98 - [[32mASIG[0m] 8399 Asignado Size:7 Delay:22
+2017.06.08-01:02:02.06 - [[34mDEVO[0m] 8279 Devuelto Size:2 Index:5
+2017.06.08-01:02:05.95 - [[32mASIG[0m] 8402 Asignado Size:1 Delay:22
+2017.06.08-01:02:07.00 - [[34mDEVO[0m] 8223 Devuelto Size:1 Index:3
+2017.06.08-01:02:09.90 - [[33mWARN[0m] 8415 No entró a memoria.
+2017.06.08-01:02:15.95 - [[32mASIG[0m] 8434 Asignado Size:3 Delay:25
+2017.06.08-01:02:19.95 - [[32mASIG[0m] 8470 Asignado Size:3 Delay:44
+2017.06.08-01:02:21.03 - [[34mDEVO[0m] 8325 Devuelto Size:6 Index:3
+2017.06.08-01:02:23.02 - [[34mDEVO[0m] 8399 Devuelto Size:7 Index:4
+2017.06.08-01:02:24.94 - [[32mASIG[0m] 8488 Asignado Size:7 Delay:24
+2017.06.08-01:02:26.02 - [[34mDEVO[0m] 8288 Devuelto Size:6 Index:2
+2017.06.08-01:02:27.99 - [[34mDEVO[0m] 8402 Devuelto Size:1 Index:0
+2017.06.08-01:02:28.05 - [[34mDEVO[0m] 8291 Devuelto Size:9 Index:0
+2017.06.08-01:02:30.96 - [[32mASIG[0m] 8497 Asignado Size:9 Delay:49
+2017.06.08-01:02:34.03 - [[34mDEVO[0m] 8339 Devuelto Size:2 Index:5
+2017.06.08-01:02:36.94 - [[32mASIG[0m] 8523 Asignado Size:1 Delay:52
+2017.06.08-01:02:39.97 - [[34mDEVO[0m] 8334 Devuelto Size:6 Index:6
+2017.06.08-01:02:40.04 - [[34mDEVO[0m] 8434 Devuelto Size:3 Index:1
+2017.06.08-01:02:42.98 - [[32mASIG[0m] 8612 Asignado Size:5 Delay:27
+2017.06.08-01:02:46.94 - [[32mASIG[0m] 8669 Asignado Size:3 Delay:47
+2017.06.08-01:02:48.99 - [[34mDEVO[0m] 8488 Devuelto Size:7 Index:4
+2017.06.08-01:02:50.01 - [[32mASIG[0m] 8732 Asignado Size:2 Delay:46
+2017.06.08-01:02:50.05 - [[34mDEVO[0m] 8366 Devuelto Size:2 Index:1
+2017.06.08-01:02:56.90 - [[33mWARN[0m] 8783 No entró a memoria.
+2017.06.08-01:02:59.90 - [[33mWARN[0m] 8792 No entró a memoria.
+2017.06.08-01:03:02.93 - [[32mASIG[0m] 8793 Asignado Size:6 Delay:22
+2017.06.08-01:03:03.00 - [[34mDEVO[0m] 8470 Devuelto Size:3 Index:4
+2017.06.08-01:03:05.93 - [[32mASIG[0m] 8802 Asignado Size:10 Delay:45
+2017.06.08-01:03:09.03 - [[34mDEVO[0m] 8612 Devuelto Size:5 Index:6
+2017.06.08-01:03:11.94 - [[32mASIG[0m] 8826 Asignado Size:7 Delay:35
+2017.06.08-01:03:16.95 - [[32mASIG[0m] 8835 Asignado Size:3 Delay:46
+2017.06.08-01:03:19.90 - [[33mWARN[0m] 8844 No entró a memoria.
+2017.06.08-01:03:19.02 - [[34mDEVO[0m] 8497 Devuelto Size:9 Index:0
+2017.06.08-01:03:23.94 - [[32mASIG[0m] 8898 Asignado Size:2 Delay:53
+2017.06.08-01:03:24.98 - [[34mDEVO[0m] 8793 Devuelto Size:6 Index:2
+2017.06.08-01:03:27.96 - [[32mASIG[0m] 8968 Asignado Size:5 Delay:33
+2017.06.08-01:03:28.98 - [[34mDEVO[0m] 8523 Devuelto Size:1 Index:0
+2017.06.08-01:03:33.99 - [[32mASIG[0m] 9053 Asignado Size:6 Delay:46
+2017.06.08-01:03:33.04 - [[34mDEVO[0m] 8669 Devuelto Size:3 Index:1
+2017.06.08-01:03:36.13 - [[34mDEVO[0m] 8732 Devuelto Size:2 Index:5
+2017.06.08-01:03:39.90 - [[33mWARN[0m] 9066 No entró a memoria.
+2017.06.08-01:03:44.94 - [[32mASIG[0m] 9075 Asignado Size:1 Delay:26
+2017.06.08-01:03:45.26 - [[33mWARN[0m] 9080 No entró a memoria.
+2017.06.08-01:03:46.00 - [[34mDEVO[0m] 8826 Devuelto Size:7 Index:3
+2017.06.08-01:03:48.29 - [[32mASIG[0m] 9088 Asignado Size:4 Delay:49
+2017.06.08-01:03:50.99 - [[34mDEVO[0m] 8802 Devuelto Size:10 Index:4
+2017.06.08-01:03:51.34 - [[32mASIG[0m] 9089 Asignado Size:8 Delay:51
+2017.06.08-01:03:55.31 - [[32mASIG[0m] 9098 Asignado Size:4 Delay:21
+2017.06.08-01:03:58.26 - [[33mWARN[0m] 9108 No entró a memoria.
+2017.06.08-01:04:48.59 - [INFO] Loading logger config from: slog.cfg
+2017.06.08-01:04:50.74 - [[32mASIG[0m] 9237 Asignado Size:1 Delay:55
+2017.06.08-01:05:40.73 - [[32mASIG[0m] 9393 Asignado Size:10 Delay:30
+2017.06.08-01:05:45.81 - [[34mDEVO[0m] 9237 Devuelto Size:1 Index:5
+2017.06.08-01:06:10.76 - [[34mDEVO[0m] 9393 Devuelto Size:10 Index:0
+2017.06.08-01:06:15.73 - [[32mASIG[0m] 9573 Asignado Size:3 Delay:41
+2017.06.08-01:06:56.77 - [[34mDEVO[0m] 9573 Devuelto Size:3 Index:5
+2017.06.08-01:06:58.73 - [[32mASIG[0m] 10007 Asignado Size:9 Delay:58
+2017.06.08-01:07:39.74 - [[32mASIG[0m] 10035 Asignado Size:10 Delay:55
+2017.06.08-01:07:56.77 - [[34mDEVO[0m] 10007 Devuelto Size:9 Index:0
+2017.06.08-01:08:16.77 - [[32mASIG[0m] 10099 Asignado Size:9 Delay:56
+2017.06.08-01:08:34.79 - [[34mDEVO[0m] 10035 Devuelto Size:10 Index:4
+2017.06.08-01:08:52.74 - [[32mASIG[0m] 10120 Asignado Size:7 Delay:20
+2017.06.08-01:09:12.79 - [[34mDEVO[0m] 10120 Devuelto Size:7 Index:2
+2017.06.08-01:09:12.84 - [[34mDEVO[0m] 10099 Devuelto Size:9 Index:0
+2017.06.08-01:09:50.74 - [[32mASIG[0m] 10146 Asignado Size:10 Delay:25
+2017.06.08-01:10:15.79 - [[34mDEVO[0m] 10146 Devuelto Size:10 Index:0
+2017.06.08-01:10:21.74 - [[32mASIG[0m] 10211 Asignado Size:2 Delay:20
+2017.06.08-01:10:41.77 - [[34mDEVO[0m] 10211 Devuelto Size:2 Index:5
+2017.06.08-01:11:04.73 - [[32mASIG[0m] 10595 Asignado Size:4 Delay:32

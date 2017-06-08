@@ -10,6 +10,7 @@
 #include <sys/shm.h>
 #include <sys/mman.h>
 #include <sys/syscall.h>
+#include <signal.h>
 #include <time.h>
 #include <unistd.h>
 #include <fcntl.h>
@@ -21,9 +22,13 @@
 void *worker_thread(void *arg);
 char *read_memory();
 void write_memory(char *serialized_string);
+void SIGINT_handler(int);
+void SIGQUIT_handler(int);
 
 algorithm_t g_algorithm;
 sem_t sem_find_space;
+int ShmID;
+pid_t *ShmPTR;
 
 int main()
 {
@@ -34,6 +39,25 @@ int main()
     slog_init("log", "slog.cfg", 2, 3, 1);
 
     g_algorithm = select_algorithm();
+    //For killer
+    pid_t pid = getpid();
+    key_t MyKey;
+
+    if (signal(SIGINT, SIGINT_handler) == SIG_ERR)
+    {
+        printf("SIGINT install error\n");
+        exit(1);
+    }
+    if (signal(SIGQUIT, SIGQUIT_handler) == SIG_ERR)
+    {
+        printf("SIGQUIT install error\n");
+        exit(2);
+    }
+
+    MyKey = ftok(".", 's');
+    ShmID = shmget(MyKey, sizeof(pid_t), IPC_CREAT | 0666);
+    ShmPTR = (pid_t *)shmat(ShmID, NULL, 0);
+    *ShmPTR = pid;
     while (true)
     {
         pthread_t *my_thread = malloc(sizeof(*my_thread));
@@ -46,7 +70,7 @@ int main()
             printf("Error: pthread_create() failed\n");
             exit(EXIT_FAILURE);
         }
-        process_creation_delay = random_number(3, 6);
+        process_creation_delay = random_number(30, 60);
         printf("In main: delay of %d\n", process_creation_delay);
         sleep(process_creation_delay);
     }
@@ -269,4 +293,24 @@ void write_memory(char *serialized_string)
     close(fd);
 
     json_free_serialized_string(serialized_string);
+}
+
+//To kill process
+void SIGINT_handler(int sig)
+{
+    signal(sig, SIG_IGN);
+    printf("From SIGINT: just got a %d (SIGINT ^C) signal\n", sig);
+    signal(sig, SIGINT_handler);
+}
+
+void SIGQUIT_handler(int sig)
+{
+    signal(sig, SIG_IGN);
+    printf("From SIGQUIT: just got a %d (SIGQUIT ^\\) signal"
+           " and is about to quit\n",
+           sig);
+    shmdt(ShmPTR);
+    shmctl(ShmID, IPC_RMID, NULL);
+
+    exit(3);
 }

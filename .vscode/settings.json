@@ -6,6 +6,9 @@
         "utility": "cpp",
         "valarray": "cpp",
         "ratio": "cpp",
-        "system_error": "cpp"
+        "system_error": "cpp",
+        "cstdlib": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
     }
 }
