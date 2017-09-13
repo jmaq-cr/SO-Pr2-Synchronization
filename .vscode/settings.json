@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "ratio": "cpp",
+        "system_error": "cpp",
+        "cstdlib": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "sstream": "cpp"
+    }
+}

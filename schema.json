@@ -1,0 +1,37 @@
+[
+  {
+    "size": 10,
+    "free_space": 10,
+    "processes": {}
+  },
+  {
+    "size": 5,
+    "free_space": 5,
+    "processes": {}
+  },
+  {
+    "size": 7,
+    "free_space": 7,
+    "processes": {}
+  },
+  {
+    "size": 8,
+    "free_space": 8,
+    "processes": {}
+  },
+  {
+    "size": 10,
+    "free_space": 10,
+    "processes": {}
+  },
+  {
+    "size": 4,
+    "free_space": 4,
+    "processes": {}
+  },
+  {
+    "size": 6,
+    "free_space": 6,
+    "processes": {}
+  }
+]
