@@ -2,6 +2,6 @@
 
 int main()
 {
-    system("less +F log-2017-06-08.log");
+    system("less +F log-2017-06-09.log");
     return 0;
 }

@@ -72,7 +72,7 @@ int main()
             printf("Error: pthread_create() failed\n");
             exit(EXIT_FAILURE);
         }
-        process_creation_delay = random_number(30, 60);
+        process_creation_delay = random_number(10, 15);
         printf("In main: delay of %d\n", process_creation_delay);
         sleep(process_creation_delay);
     }
@@ -92,7 +92,7 @@ void *worker_thread(void *arg)
     sprintf(str_process_id, "%lu", process_id);
 
     int process_size = random_number(1, 10);
-    int process_delay = random_number(20, 60);
+    int process_delay = random_number(30, 40);
     printf("process_size: %d\n", process_size);
     printf("process_delay: %d\n", process_delay);
     printf("process_id: %lu\n", syscall(SYS_gettid));
