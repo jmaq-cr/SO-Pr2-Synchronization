@@ -1,0 +1,24 @@
+[
+  {
+    "size": 10,
+    "free_space": 3,
+    "processes": [
+      {
+        "name": "P1",
+        "size": 5,
+        "delay": 30
+      }
+    ]
+  },
+  {
+    "size": 5,
+    "free_space": 2,
+    "processes": [
+      {
+        "name": "P2",
+        "size": 3,
+        "delay": 37
+      }
+    ]
+  }
+]
